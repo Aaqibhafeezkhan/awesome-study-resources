@@ -4079,5 +4079,12 @@
     "description": "Study Japanese and Korean flashcards with handwriting practice (iOS, freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "Major Dictionary",
+    "url": "https://majordictionary.com/major-system",
+    "description": "Memorize numbers with a Major System chart and Anki decks (free).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]
