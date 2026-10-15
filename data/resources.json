@@ -4107,5 +4107,12 @@
     "description": "Offers free learning resources on Shakespeare and theatre practice (free).",
     "section": "By Subject",
     "subsection": "Theatre"
+  },
+  {
+    "name": "Open Music Theory",
+    "url": "https://viva.pressbooks.pub/openmusictheory/",
+    "description": "Teaches theory and analysis in an open online textbook (free).",
+    "section": "By Subject",
+    "subsection": "Music"
   }
 ]
