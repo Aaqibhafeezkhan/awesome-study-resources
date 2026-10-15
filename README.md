@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-588-blue)
+![Resources](https://img.shields.io/badge/resources-589-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 111 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 363 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 364 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -876,6 +876,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
 - **[Study Rocket](https://studyrocket.co.uk/revision/a-level-media-studies-ocr)** - Free exam board-specific A-Level Media Studies revision content (free).
+- **[Understanding Media and Culture](https://open.lib.umn.edu/mediaandculture/)** - Covers media history, theory, and industries in an open textbook (free).
 
 </details>
 
