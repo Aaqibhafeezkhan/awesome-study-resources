@@ -4170,5 +4170,12 @@
     "description": "Explains conditions, treatments, and care services in plain language (free).",
     "section": "By Subject",
     "subsection": "Health and Social Care"
+  },
+  {
+    "name": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/",
+    "description": "Explains climate science with maps, data, and articles (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
   }
 ]
