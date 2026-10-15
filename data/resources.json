@@ -4184,5 +4184,12 @@
     "description": "Reads articles on Greek, Roman, and Near Eastern history (free).",
     "section": "By Subject",
     "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "UN Sustainable Development Goals",
+    "url": "https://sdgs.un.org/",
+    "description": "Tracks global issues, goals, and data from the United Nations (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
   }
 ]
