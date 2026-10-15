@@ -4100,5 +4100,12 @@
     "description": "Explores ballet syllabi, history, and teaching resources (free).",
     "section": "By Subject",
     "subsection": "Dance"
+  },
+  {
+    "name": "Shakespeare's Globe Learning",
+    "url": "https://www.shakespearesglobe.com/learn/",
+    "description": "Offers free learning resources on Shakespeare and theatre practice (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
   }
 ]
