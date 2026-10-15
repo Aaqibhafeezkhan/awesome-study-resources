@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-592-blue)
+![Resources](https://img.shields.io/badge/resources-593-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 111 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 367 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 368 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -789,6 +789,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com/a-level/sociology/)** - Revision notes, exam questions, and past papers for A-Level Sociology (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive A-Level Sociology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org/theories/sociology/)** - Clear notes on core sociological theories and thinkers (free).
+- **[Sociological Images](https://thesocietypages.org/socimages/)** - Applies sociological concepts to images and current events (free).
 - **[tutor2u](https://www.tutor2u.net/free/sociology)** - Free revision notes and teaching resources for A-Level Sociology (freemium).
 
 </details>

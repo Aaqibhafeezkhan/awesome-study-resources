@@ -4142,5 +4142,12 @@
     "description": "Explains art movements, artists, and ideas in short guides (free).",
     "section": "By Subject",
     "subsection": "Art"
+  },
+  {
+    "name": "Sociological Images",
+    "url": "https://thesocietypages.org/socimages/",
+    "description": "Applies sociological concepts to images and current events (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
   }
 ]
