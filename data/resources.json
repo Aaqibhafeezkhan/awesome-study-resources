@@ -4212,5 +4212,12 @@
     "description": "Downloads public-domain literature as free ebooks (free).",
     "section": "By Subject",
     "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Design Museum",
+    "url": "https://designmuseum.org/",
+    "description": "Explores design history, objects, and learning resources (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
   }
 ]
