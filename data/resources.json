@@ -4191,5 +4191,12 @@
     "description": "Tracks global issues, goals, and data from the United Nations (free).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Internet History Sourcebooks",
+    "url": "https://sourcebooks.fordham.edu/",
+    "description": "Collects public-domain primary sources for ancient to modern history (free).",
+    "section": "By Subject",
+    "subsection": "History"
   }
 ]
