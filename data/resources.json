@@ -4086,5 +4086,12 @@
     "description": "Memorize numbers with a Major System chart and Anki decks (free).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
+  },
+  {
+    "name": "ZNotes",
+    "url": "https://znotes.org",
+    "description": "Offers free student-made notes and past papers for A-Level (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
   }
 ]
