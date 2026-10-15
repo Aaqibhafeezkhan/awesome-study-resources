@@ -4093,5 +4093,12 @@
     "description": "Offers free student-made notes and past papers for A-Level (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "A-Level"
+  },
+  {
+    "name": "Royal Academy of Dance",
+    "url": "https://www.royalacademyofdance.org/",
+    "description": "Explores ballet syllabi, history, and teaching resources (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
   }
 ]
