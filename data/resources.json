@@ -4177,5 +4177,12 @@
     "description": "Explains climate science with maps, data, and articles (free).",
     "section": "By Subject",
     "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Livius",
+    "url": "https://www.livius.org/",
+    "description": "Reads articles on Greek, Roman, and Near Eastern history (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
   }
 ]
