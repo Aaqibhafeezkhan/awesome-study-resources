@@ -4121,5 +4121,12 @@
     "description": "Covers media history, theory, and industries in an open textbook (free).",
     "section": "By Subject",
     "subsection": "Media Studies"
+  },
+  {
+    "name": "Magnum Photos",
+    "url": "https://www.magnumphotos.com/",
+    "description": "Browses documentary photography archives and essays (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
   }
 ]
