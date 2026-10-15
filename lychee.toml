@@ -34,6 +34,15 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # regardless of certificate verification, while the site is still indexed and served normally
 # to real browsers/search bots. That's consistent with TLS-fingerprint-based bot blocking, not
 # a dead site, so it's excluded here instead of removed from README.md.
+# sacred-texts.com (By Subject > Religious Studies / Classics), oranoai.com (Notes & Knowledge
+# Management) and siriusrevision.com (Exam & Curriculum Prep > IB) are live sites that respond
+# 200 to curl and browsers with this same user agent, but fail only from the CI runner (#394):
+# sacred-texts.com triggers an HTTP/2 protocol error in lychee's client, oranoai.com returns a
+# bogus 404 to GitHub-hosted runner IPs, and siriusrevision.com times out intermittently. These
+# are bot/IP-blocking and client quirks, not dead sites, so they are excluded instead of removed.
 exclude = [
   "https://www.cambridgeincolour.com/",
+  "https://sacred-texts.com/",
+  "https://oranoai.com/",
+  "https://www.siriusrevision.com/",
 ]
