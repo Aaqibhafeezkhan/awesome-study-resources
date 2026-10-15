@@ -4205,5 +4205,12 @@
     "description": "Searches example sentences with translations in hundreds of languages (free).",
     "section": "By Subject",
     "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/",
+    "description": "Downloads public-domain literature as free ebooks (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
   }
 ]
