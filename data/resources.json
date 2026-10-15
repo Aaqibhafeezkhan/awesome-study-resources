@@ -4135,5 +4135,12 @@
     "description": "Reads in-depth essays on filmmaking and film history (free).",
     "section": "By Subject",
     "subsection": "Film"
+  },
+  {
+    "name": "The Art Story",
+    "url": "https://www.theartstory.org/",
+    "description": "Explains art movements, artists, and ideas in short guides (free).",
+    "section": "By Subject",
+    "subsection": "Art"
   }
 ]
