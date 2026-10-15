@@ -4156,5 +4156,12 @@
     "description": "Summarizes research on psychology topics from the APA (free).",
     "section": "By Subject",
     "subsection": "Psychology"
+  },
+  {
+    "name": "SAPIENS",
+    "url": "https://www.sapiens.org/",
+    "description": "Reads anthropology articles written for general audiences (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
   }
 ]
