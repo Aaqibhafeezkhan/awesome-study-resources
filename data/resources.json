@@ -4198,5 +4198,12 @@
     "description": "Collects public-domain primary sources for ancient to modern history (free).",
     "section": "By Subject",
     "subsection": "History"
+  },
+  {
+    "name": "Tatoeba",
+    "url": "https://tatoeba.org/",
+    "description": "Searches example sentences with translations in hundreds of languages (free).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
   }
 ]
