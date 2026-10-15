@@ -4163,5 +4163,12 @@
     "description": "Reads anthropology articles written for general audiences (free).",
     "section": "By Subject",
     "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "NHS",
+    "url": "https://www.nhs.uk/",
+    "description": "Explains conditions, treatments, and care services in plain language (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
   }
 ]

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-595-blue)
+![Resources](https://img.shields.io/badge/resources-596-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 111 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 370 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 371 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -732,6 +732,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned Health and Social Care revision (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care)** - Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).
+- **[NHS](https://www.nhs.uk/)** - Explains conditions, treatments, and care services in plain language (free).
 - **[OpenLearn Health and Social Care](https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway)** - Free Open University introductory courses on social care, nursing, and mental health (free).
 - **[Revision Genie](https://www.revisiongenie.com/subject/gcse/health-and-social-care)** - AI tutor with free practice questions for GCSE Health and Social Care (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/health-and-social-care)** - Free revision guides and resources for Health and Social Care (free).
