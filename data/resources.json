@@ -4149,5 +4149,12 @@
     "description": "Applies sociological concepts to images and current events (free).",
     "section": "By Subject",
     "subsection": "Sociology"
+  },
+  {
+    "name": "APA Psychology Topics",
+    "url": "https://www.apa.org/topics",
+    "description": "Summarizes research on psychology topics from the APA (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
   }
 ]
