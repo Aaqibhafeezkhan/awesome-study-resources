@@ -40,7 +40,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
-| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 11 |
+| <span role="img" aria-label="Diagramming and STEM Tools icon">📐</span> | [Diagramming & STEM Tools](#diagramming--stem-tools) | 12 |
 | <span role="img" aria-label="Building Software / Learn to Code icon">💻</span> | [Building Software / Learn to Code](#building-software--learn-to-code) | 18 |
 | <span role="img" aria-label="YouTube Channels We Trust icon">▶️</span> | [YouTube Channels We Trust](#youtube-channels-we-trust) | 17 |
 | <span role="img" aria-label="Great Textbooks icon">📕</span> | [Great Textbooks](#great-textbooks) | 10 |
@@ -1085,6 +1085,7 @@ Graph, compute, and sketch ideas.
 - **[Mermaid](https://mermaid.js.org/)** - Draw flowcharts and diagrams from text, open source (free).
 - **[MolView](https://molview.org/)** - Explore molecules in 3D and build reaction diagrams in the browser (free).
 - **[PhET Simulations](https://phet.colorado.edu)** - Free interactive simulations for exploring physics, chemistry, biology, and math (free).
+- **[Space Atlas](https://saramjh.github.io/space_atlas_student/)** - Explore interactive astronomy models and teacher activities (free).
 - **[Tinkercad](https://www.tinkercad.com)** - Design and simulate 3D models, circuits, and code in the browser (freemium).
 - **[Wolfram Alpha](https://www.wolframalpha.com)** - Computational engine for step-by-step math and science (freemium).
 
