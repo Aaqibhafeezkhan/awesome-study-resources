@@ -12,7 +12,7 @@ against the [Quality Standards](README.md#quality-standards), and open a PR.
 
 ## Contributors
 
-- [@Buddy69-Lanka](https://github.com/Buddy69-Lanka) - added the Statistics Calculator resource
+- @Buddy69-Lanka (GitHub account no longer exists) - added the Statistics Calculator resource
 - [@Circout-sudo](https://github.com/Circout-sudo) - improved the README
 - [@jelonman](https://github.com/jelonman) - added StudyLoop to Flashcards & Spaced Repetition
 - [@ResourceMint](https://github.com/ResourceMint) - fixed the resource suggestion issue template

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-585-blue)
+![Resources](https://img.shields.io/badge/resources-604-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,8 +33,8 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 110 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 360 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 111 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 378 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -67,6 +67,7 @@ Official and community prep for the big exams and curricula.
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers by exam board (freemium).
 - **[Study Haven](https://studyhaven.org/)** - Free Custom Past Papers for A-Levels and IGCSE (freemium).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific A-Level and GCSE revision content (free).
+- **[ZNotes](https://znotes.org)** - Offers free student-made notes and past papers for A-Level (free).
 
 </details>
 
@@ -399,6 +400,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zykw2hv)** - Free curriculum-aligned revision guides for GCSE Design and Technology (free).
 - **[Clastify](https://www.clastify.com/notes/design-technology)** - Searchable IB Design Technology notes filtered by grade and level (freemium).
+- **[Design Museum](https://designmuseum.org/)** - Explores design history, objects, and learning resources (free).
 - **[DTBase](https://designandtechbase.com/)** - Free GCSE and A-Level Design and Technology notes and past papers (freemium).
 - **[IB Guides](https://ibguides.com/design-technology/home/)** - Free Design Technology syllabus objectives, unit guides, and videos (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Design-Technology-(HL))** - Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).
@@ -490,6 +492,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Mr Bruff](https://www.youtube.com/@mrbruff)** - Free GCSE and A-Level English Language and Literature revision videos (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/english-revision/)** - Free summary notes, character profiles, and past papers for A-Level texts (free).
 - **[Poetry Foundation](https://www.poetryfoundation.org/learn)** - Free poem archive, glossary of poetic terms, and analysis guides (free).
+- **[Project Gutenberg](https://www.gutenberg.org/)** - Downloads public-domain literature as free ebooks (free).
 - **[Purdue OWL](https://owl.purdue.edu)** - Free reference for writing, grammar, and citation styles (free).
 - **[SparkNotes](https://www.sparknotes.com)** - Study guides and analysis for set literature texts (free).
 
@@ -509,6 +512,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
 - **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).
 - **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
+- **[Tatoeba](https://tatoeba.org/)** - Searches example sentences with translations in hundreds of languages (free).
 
 </details>
 
@@ -575,6 +579,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history (free).
 - **[Heimler's History](https://www.youtube.com/@heimlershistory)** - Exam-focused videos for AP History courses (free).
 - **[History Skills](https://www.historyskills.com/)** - Teaches source analysis, essay writing, and research skills for history students (freemium).
+- **[Internet History Sourcebooks](https://sourcebooks.fordham.edu/)** - Collects public-domain primary sources for ancient to modern history (free).
 - **[Mr Allsop History](https://www.mrallsophistory.com)** - Free podcasts, videos, and revision notes across GCSE, IGCSE, A-Level, and IB History (free).
 - **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level History revision (freemium).
@@ -595,6 +600,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[PapaCambridge](https://notes.papacambridge.com/notes/caie/cambridge-upper-secondarycambridge-igcse-global-perspectives-0457)** - Offers past papers, topical notes, and revision materials for this course (freemium).
 - **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pro and con research on controversial global issues (free).
 - **[Save My Exams](https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/)** - Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).
+- **[UN Sustainable Development Goals](https://sdgs.un.org/)** - Tracks global issues, goals, and data from the United Nations (free).
 - **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and global issues (free).
 - **[ZNotes](https://znotes.org/caie/igcse/global-perspectives-0457/)** - Summarizes syllabus topics and exam skills for Global Perspectives (freemium).
 
@@ -625,6 +631,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Advocating Classics Education](https://aceclassics.org.uk)** - University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization)** - Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).
+- **[Livius](https://www.livius.org/)** - Reads articles on Greek, Roman, and Near Eastern history (free).
 - **[Perseus Digital Library](https://www.perseus.tufts.edu)** - Free searchable library of classical Greek and Latin texts and tools (free).
 - **[Primrose Kitten](https://www.youtube.com/@PrimroseKitten)** - Free video revision covering GCSE Classical Civilisation topics (free).
 - **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
@@ -681,6 +688,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS (freemium).
 - **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries (free).
 - **[Mr Kremer's Science](https://mrkremerscience.com/new-ess/)** - Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).
+- **[NOAA Climate.gov](https://www.climate.gov/)** - Explains climate science with maps, data, and articles (free).
 - **[Our World in Data](https://ourworldindata.org)** - Free data and research on environmental, climate, and global issues (free).
 - **[Revision Village](https://www.revisionvillage.com/ib-ess/sl-2026/)** - Questionbank, past papers, and flashcards for IB ESS (freemium).
 - **[Save My Exams](https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/)** - Revision notes, exam questions, and past papers for IB ESS (freemium).
@@ -731,6 +739,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned Health and Social Care revision (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care)** - Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).
+- **[NHS](https://www.nhs.uk/)** - Explains conditions, treatments, and care services in plain language (free).
 - **[OpenLearn Health and Social Care](https://www.open.edu/openlearn/health-sports-psychology/health-and-social-care-pathway)** - Free Open University introductory courses on social care, nursing, and mental health (free).
 - **[Revision Genie](https://www.revisiongenie.com/subject/gcse/health-and-social-care)** - AI tutor with free practice questions for GCSE Health and Social Care (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/health-and-social-care)** - Free revision guides and resources for Health and Social Care (free).
@@ -755,6 +764,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[OpenStax Introduction to Anthropology](https://openstax.org/details/books/introduction-anthropology)** - Free, peer-reviewed introductory anthropology textbook (free).
 - **[Perspectives: An Open Invitation to Cultural Anthropology](https://pressbooks.pub/perspectives/)** - Free, peer-reviewed open textbook introducing cultural anthropology topics (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-social-and-cultural-anthropology)** - Provides study notes, flashcards, and a question bank (freemium).
+- **[SAPIENS](https://www.sapiens.org/)** - Reads anthropology articles written for general audiences (free).
 
 </details>
 
@@ -763,6 +773,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[APA Psychology Topics](https://www.apa.org/topics)** - Summarizes research on psychology topics from the APA (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series (free).
 - **[Fiveable](https://fiveable.me)** - Free AP Psychology study guides, practice questions, and exam-day reviews (freemium).
 - **[Noba Project](https://nobaproject.com/)** - Free psychology modules and customizable introductory textbooks (free).
@@ -788,6 +799,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com/a-level/sociology/)** - Revision notes, exam questions, and past papers for A-Level Sociology (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive A-Level Sociology revision (freemium).
 - **[Simply Psychology](https://www.simplypsychology.org/theories/sociology/)** - Clear notes on core sociological theories and thinkers (free).
+- **[Sociological Images](https://thesocietypages.org/socimages/)** - Applies sociological concepts to images and current events (free).
 - **[tutor2u](https://www.tutor2u.net/free/sociology)** - Free revision notes and teaching resources for A-Level Sociology (freemium).
 
 </details>
@@ -824,6 +836,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Smarthistory](https://smarthistory.org)** - Free, peer-reviewed art history essays and videos, Khan Academy's official partner (free).
 - **[Student Art Guide](https://www.studentartguide.com/)** - Free guides on critical studies, artist research, and sketchbook annotation (free).
 - **[Tate](https://www.tate.org.uk/art/student-resource)** - Free GCSE and A-Level art exam help and student resources (free).
+- **[The Art Story](https://www.theartstory.org/)** - Explains art movements, artists, and ideas in short guides (free).
 
 </details>
 
@@ -833,6 +846,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BFI Film Academy](https://www.bfi.org.uk/bfi-film-academy)** - Free UK-wide filmmaking training programme for 16 to 25-year-olds (free).
+- **[Cinephilia & Beyond](https://cinephiliabeyond.org/)** - Reads in-depth essays on filmmaking and film history (free).
 - **[Film Riot](https://www.youtube.com/@filmriot)** - Weekly tutorials on shooting, editing, and VFX for indie filmmakers (free).
 - **[Filmsite](https://www.filmsite.org/)** - Read scholarly film reviews, history milestones, and greatest-films lists (free).
 - **[Into Film](https://www.intofilm.org)** - Free UK film education charity with lesson plans and student filmmaking resources (free).
@@ -853,6 +867,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Digital Photography School](https://digital-photography-school.com)** - Free photography tutorials covering camera basics, composition, and lighting (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/photography)** - Free class notes, flashcards, and quizzes for GCSE Photography (free).
 - **[iPhotography](https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/)** - Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).
+- **[Magnum Photos](https://www.magnumphotos.com/)** - Browses documentary photography archives and essays (free).
 - **[PetaPixel](https://petapixel.com/)** - Follow photography news, tutorials, and gear reviews (free, ad-free membership).
 - **[Photography Life](https://photographylife.com)** - Photography tutorials, camera reviews, and free beginner courses (free).
 - **[PhotoPedagogy](https://www.photopedagogy.com/)** - Shares photography teaching concepts, assignments, and analysis resources (free).
@@ -875,6 +890,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for Media Studies (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level Media Studies revision (freemium).
 - **[Study Rocket](https://studyrocket.co.uk/revision/a-level-media-studies-ocr)** - Free exam board-specific A-Level Media Studies revision content (free).
+- **[Understanding Media and Culture](https://open.lib.umn.edu/mediaandculture/)** - Covers media history, theory, and industries in an open textbook (free).
 
 </details>
 
@@ -890,6 +906,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[MuseScore](https://musescore.org/en)** - Notate and play back compositions for coursework (free, open source).
 - **[musictheory.net](https://www.musictheory.net)** - Free, interactive lessons and ear-training exercises for music theory basics (free).
 - **[MyMusicTheory](https://mymusictheory.com/)** - Free music theory lessons and grade quizzes for ABRSM and Trinity exams (freemium).
+- **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** - Teaches theory and analysis in an open online textbook (free).
 - **[Rick Beato](https://www.youtube.com/@RickBeato)** - In-depth music theory, ear training, and song analysis (free).
 - **[teoria](https://teoria.com)** - Free ear-training drills and music theory reference (free).
 
@@ -907,6 +924,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[National Theatre](https://www.nationaltheatre.org.uk/learn-explore)** - Free lesson plans and filmed productions for A-Level Drama set texts (free).
 - **[RSC Shakespeare Learning Zone](https://www.rsc.org.uk/shakespeare-learning-zone)** - Explores Shakespeare plays through videos, scenes, and character notes (free).
 - **[Save My Exams](https://www.savemyexams.com/a-level/drama/aqa/drama-and-theatre/)** - Revision notes, topic questions, and past papers for A-Level Drama and Theatre (freemium).
+- **[Shakespeare's Globe Learning](https://www.shakespearesglobe.com/learn/)** - Offers free learning resources on Shakespeare and theatre practice (free).
 - **[StageMilk](https://www.stagemilk.com)** - Free acting tips, monologues, and technique guides (free).
 - **[Theatrefolk](https://www.theatrefolk.com/free-resources)** - Free monologues, scenes, playwriting exercises, and study guides for drama students (freemium).
 
@@ -922,6 +940,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/dance)** - Free class notes, flashcards, and quizzes for GCSE Dance (free).
 - **[Rambert Classroom](https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/)** - Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/dance)** - Free GCSE and A-Level Dance revision guides by exam board (free).
+- **[Royal Academy of Dance](https://www.royalacademyofdance.org/)** - Explores ballet syllabi, history, and teaching resources (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for GCSE and A-Level Dance (freemium).
 - **[SimpleStudy UK](https://simplestudy.com/gb/a-level/aqa/dance/revision-notes)** - Teacher-written A-Level Dance revision notes, quizzes, and past papers (freemium).
 - **[STEEZY Studio](https://www.steezy.co)** - Online dance classes and technique tutorials across styles (freemium).

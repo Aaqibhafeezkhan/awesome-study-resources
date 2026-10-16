@@ -4088,6 +4088,139 @@
     "subsection": null
   },
   {
+    "name": "ZNotes",
+    "url": "https://znotes.org",
+    "description": "Offers free student-made notes and past papers for A-Level (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
+  },
+  {
+    "name": "Royal Academy of Dance",
+    "url": "https://www.royalacademyofdance.org/",
+    "description": "Explores ballet syllabi, history, and teaching resources (free).",
+    "section": "By Subject",
+    "subsection": "Dance"
+  },
+  {
+    "name": "Shakespeare's Globe Learning",
+    "url": "https://www.shakespearesglobe.com/learn/",
+    "description": "Offers free learning resources on Shakespeare and theatre practice (free).",
+    "section": "By Subject",
+    "subsection": "Theatre"
+  },
+  {
+    "name": "Open Music Theory",
+    "url": "https://viva.pressbooks.pub/openmusictheory/",
+    "description": "Teaches theory and analysis in an open online textbook (free).",
+    "section": "By Subject",
+    "subsection": "Music"
+  },
+  {
+    "name": "Understanding Media and Culture",
+    "url": "https://open.lib.umn.edu/mediaandculture/",
+    "description": "Covers media history, theory, and industries in an open textbook (free).",
+    "section": "By Subject",
+    "subsection": "Media Studies"
+  },
+  {
+    "name": "Magnum Photos",
+    "url": "https://www.magnumphotos.com/",
+    "description": "Browses documentary photography archives and essays (free).",
+    "section": "By Subject",
+    "subsection": "Photography"
+  },
+  {
+    "name": "Cinephilia & Beyond",
+    "url": "https://cinephiliabeyond.org/",
+    "description": "Reads in-depth essays on filmmaking and film history (free).",
+    "section": "By Subject",
+    "subsection": "Film"
+  },
+  {
+    "name": "The Art Story",
+    "url": "https://www.theartstory.org/",
+    "description": "Explains art movements, artists, and ideas in short guides (free).",
+    "section": "By Subject",
+    "subsection": "Art"
+  },
+  {
+    "name": "Sociological Images",
+    "url": "https://thesocietypages.org/socimages/",
+    "description": "Applies sociological concepts to images and current events (free).",
+    "section": "By Subject",
+    "subsection": "Sociology"
+  },
+  {
+    "name": "APA Psychology Topics",
+    "url": "https://www.apa.org/topics",
+    "description": "Summarizes research on psychology topics from the APA (free).",
+    "section": "By Subject",
+    "subsection": "Psychology"
+  },
+  {
+    "name": "SAPIENS",
+    "url": "https://www.sapiens.org/",
+    "description": "Reads anthropology articles written for general audiences (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "NHS",
+    "url": "https://www.nhs.uk/",
+    "description": "Explains conditions, treatments, and care services in plain language (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/",
+    "description": "Explains climate science with maps, data, and articles (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "Livius",
+    "url": "https://www.livius.org/",
+    "description": "Reads articles on Greek, Roman, and Near Eastern history (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "UN Sustainable Development Goals",
+    "url": "https://sdgs.un.org/",
+    "description": "Tracks global issues, goals, and data from the United Nations (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "Internet History Sourcebooks",
+    "url": "https://sourcebooks.fordham.edu/",
+    "description": "Collects public-domain primary sources for ancient to modern history (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Tatoeba",
+    "url": "https://tatoeba.org/",
+    "description": "Searches example sentences with translations in hundreds of languages (free).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/",
+    "description": "Downloads public-domain literature as free ebooks (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Design Museum",
+    "url": "https://designmuseum.org/",
+    "description": "Explores design history, objects, and learning resources (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
     "name": "Space Atlas",
     "url": "https://saramjh.github.io/space_atlas_student/",
     "description": "Explore interactive astronomy models and teacher activities (free).",
