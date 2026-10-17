@@ -4303,5 +4303,12 @@
     "description": "Learn modern web development with a free University of Helsinki course.",
     "section": "Building Software / Learn to Code",
     "subsection": "Learn to Code"
+  },
+  {
+    "name": "CSES Problem Set",
+    "url": "https://cses.fi/problemset/",
+    "description": "Solve a curated set of classic algorithm problems (free).",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Coding Practice"
   }
 ]
