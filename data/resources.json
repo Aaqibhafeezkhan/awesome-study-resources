@@ -4331,5 +4331,12 @@
     "description": "Practice PSAT questions with detailed answer explanations (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "PSAT"
+  },
+  {
+    "name": "GeoGebra",
+    "url": "https://www.geogebra.org",
+    "description": "Graph functions and explore geometry with interactive tools (free).",
+    "section": "By Subject",
+    "subsection": "Mathematics"
   }
 ]
