@@ -4261,5 +4261,12 @@
     "description": "Brainstorm interests and shape a research question with a planner (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Extended Essay"
+  },
+  {
+    "name": "AQA",
+    "url": "https://www.aqa.org.uk",
+    "description": "Find official GCSE specifications, past papers, and mark schemes (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "GCSE"
   }
 ]
