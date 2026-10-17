@@ -4324,5 +4324,12 @@
     "description": "Find local volunteering opportunities for CAS service hours (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "CAS"
+  },
+  {
+    "name": "UWorld PSAT",
+    "url": "https://collegeprep.uworld.com/psat/",
+    "description": "Practice PSAT questions with detailed answer explanations (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "PSAT"
   }
 ]
