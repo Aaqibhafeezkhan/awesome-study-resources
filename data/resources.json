@@ -4268,5 +4268,12 @@
     "description": "Find official GCSE specifications, past papers, and mark schemes (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "GCSE"
+  },
+  {
+    "name": "Tutopiya IB Diploma",
+    "url": "https://www.tutopiya.com/study-resources/ib-dp/",
+    "description": "Read topic notes and try practice questions by subject (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IB (IBDP)"
   }
 ]

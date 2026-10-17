@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-610-blue)
+![Resources](https://img.shields.io/badge/resources-611-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 116 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 117 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 379 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -192,6 +192,7 @@ Official and community prep for the big exams and curricula.
 - **[RevisionDojo](https://www.revisiondojo.com)** - Practice questions and study tools built around the IB syllabus (freemium).
 - **[Sirius Revision](https://www.siriusrevision.com)** - Intensive online and in-person revision courses for the IB Diploma (paid).
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus (freemium).
+- **[Tutopiya IB Diploma](https://www.tutopiya.com/study-resources/ib-dp/)** - Read topic notes and try practice questions by subject (freemium).
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects (free).
 
 </details>
