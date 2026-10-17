@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-611-blue)
+![Resources](https://img.shields.io/badge/resources-612-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 117 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 118 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 379 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -202,6 +202,7 @@ Official and community prep for the big exams and curricula.
 <details open>
 <summary>Show resources</summary>
 
+- **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
 - **[CtrlAltRevise Pseudocode Practice](https://www.ctrlaltrevise.com/pseudocode-practice?utm_source=directory&utm_medium=referral&utm_campaign=s260906_gcse_directory)** - Practise 0478/0984 pseudocode with original exercises and answers (free).
 - **[GCE Guide](https://gceguide.com)** - Searchable archive of Cambridge past papers and mark schemes (free).

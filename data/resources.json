@@ -4275,5 +4275,12 @@
     "description": "Read topic notes and try practice questions by subject (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IB (IBDP)"
+  },
+  {
+    "name": "Cambridge IGCSE",
+    "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/",
+    "description": "Find official IGCSE syllabuses, past papers, and examiner reports (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "IGCSE"
   }
 ]
