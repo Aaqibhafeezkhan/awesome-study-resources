@@ -4233,5 +4233,12 @@
     "description": "Explore interactive astronomy models and teacher activities (free).",
     "section": "Diagramming & STEM Tools",
     "subsection": null
+  },
+  {
+    "name": "Mometrix ACT",
+    "url": "https://www.mometrix.com/academy/act-test/",
+    "description": "Offers an ACT test guide and free practice questions (freemium).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "ACT"
   }
 ]
