@@ -4345,5 +4345,12 @@
     "description": "Read a free interactive statistics textbook with simulations.",
     "section": "By Subject",
     "subsection": "Statistics"
+  },
+  {
+    "name": "Save My Exams Further Maths",
+    "url": "https://www.savemyexams.com/a-level/further-maths/",
+    "description": "Revise A-Level Further Maths with notes and past papers (freemium).",
+    "section": "By Subject",
+    "subsection": "Further Mathematics"
   }
 ]

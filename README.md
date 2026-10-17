@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-621-blue)
+![Resources](https://img.shields.io/badge/resources-622-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 123 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 381 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 382 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -330,6 +330,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[NRICH](https://nrich.maths.org)** - Stretch problem-solving with Cambridge's rich maths problems (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com/maths-revision/further-core-pure/)** - Free past papers, worksheets, and topic notes for A-Level Further Maths (free).
 - **[Revision Village](https://www.revisionvillage.com)** - Video lessons and past papers for IB Math AA/AI HL (freemium).
+- **[Save My Exams Further Maths](https://www.savemyexams.com/a-level/further-maths/)** - Revise A-Level Further Maths with notes and past papers (freemium).
 - **[STEP Support Programme](https://step.maths.org/)** - Free Cambridge-built modules and worked solutions for advanced problem-solving beyond Further Maths (free).
 - **[Underground Mathematics](https://undergroundmathematics.org/)** - Free, University of Cambridge resources linking A-Level and Further Maths topics (free).
 
