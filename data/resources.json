@@ -4282,5 +4282,12 @@
     "description": "Find official IGCSE syllabuses, past papers, and examiner reports (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "IGCSE"
+  },
+  {
+    "name": "College Board SAT Practice",
+    "url": "https://satsuite.collegeboard.org/practice",
+    "description": "Take official SAT practice tests and review sample questions (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "SAT"
   }
 ]
