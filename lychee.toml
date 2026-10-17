@@ -40,6 +40,11 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # sacred-texts.com triggers an HTTP/2 protocol error in lychee's client, oranoai.com returns a
 # bogus 404 to GitHub-hosted runner IPs, and siriusrevision.com times out intermittently. These
 # are bot/IP-blocking and client quirks, not dead sites, so they are excluded instead of removed.
+# double-entry-bookkeeping.com, bizedmadesimple.com, mrallsophistory.com and statology.org (HTTP/2
+# protocol errors in lychee's client) and sciencesauceonline.com, core-econ.org and economicshelp.org
+# (Cloudflare 520 origin errors returned only to the CI runner) all load fine with curl and in a
+# browser (HTTP 200, re-verified 2026-10-17) and passed the same check in an earlier run, so they
+# are intermittent runner/client quirks, not dead sites. Excluded instead of removed.
 # tutorial.math.lamar.edu (By Subject > Mathematics, Paul's Online Math Notes) is a long-running,
 # actively maintained site (copyright 2026), but as of 2026-10-17 Lamar University's DNS publishes
 # its CNAME (tutorial-math.wip.lamar.edu) with no address record behind it, so every resolver fails
@@ -51,4 +56,11 @@ exclude = [
   "https://oranoai.com/",
   "https://www.siriusrevision.com/",
   "https://tutorial.math.lamar.edu/",
+  "https://www.double-entry-bookkeeping.com/",
+  "https://bizedmadesimple.com/",
+  "https://www.mrallsophistory.com/",
+  "https://www.statology.org/",
+  "https://sciencesauceonline.com/ibess/",
+  "https://www.core-econ.org/",
+  "https://www.economicshelp.org/",
 ]
