@@ -4247,5 +4247,12 @@
     "description": "Browse official AP course descriptions, exam formats, and past free-response questions (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP"
+  },
+  {
+    "name": "AP Central: Computer Science Principles",
+    "url": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles",
+    "description": "Review the official AP CSP course framework and exam details (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP Computer Science"
   }
 ]
