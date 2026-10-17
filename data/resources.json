@@ -4359,5 +4359,12 @@
     "description": "Read a free peer-reviewed physics textbook with practice problems.",
     "section": "By Subject",
     "subsection": "Physics"
+  },
+  {
+    "name": "OpenStax Biology 2e",
+    "url": "https://openstax.org/details/books/biology-2e",
+    "description": "Read a free peer-reviewed biology textbook online or as PDF.",
+    "section": "By Subject",
+    "subsection": "Biology"
   }
 ]
