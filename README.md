@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-608-blue)
+![Resources](https://img.shields.io/badge/resources-609-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 114 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 115 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 379 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -153,6 +153,7 @@ Official and community prep for the big exams and curricula.
 - **[Extended Essay Planner](https://aldevere.com/tools/extended-essay-planner/)** - Free tool that turns a vague EE idea into a focused research question (free).
 - **[IB Extended Essay](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/extended-essay/)** - The IB's official overview of the Extended Essay requirements and process (free).
 - **[Lanterna Education](https://lanterna.com/resources/ib-extended-essay-ee-guide)** - Free guide to choosing a topic and structuring an Extended Essay (free).
+- **[Lanterna EE Topic Planner](https://lanterna.com/resources/ee-topic-planner-2026)** - Brainstorm interests and shape a research question with a planner (free).
 - **[Nail IB](https://nailib.com/ee-sample)** - Shares 70+ real IB Extended Essay examples for reference (free).
 - **[PrepScholar EE](https://blog.prepscholar.com/complete-guide-to-ib-extended-essay-tips-grading-guideline-and-sample-essays)** - Free guide covering EE grading, structure, and sample essays (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ee-guides)** - Subject-specific Extended Essay guides, exemplars, and a research question tool (freemium).

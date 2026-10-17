@@ -4254,5 +4254,12 @@
     "description": "Review the official AP CSP course framework and exam details (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "AP Computer Science"
+  },
+  {
+    "name": "Lanterna EE Topic Planner",
+    "url": "https://lanterna.com/resources/ee-topic-planner-2026",
+    "description": "Brainstorm interests and shape a research question with a planner (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "Extended Essay"
   }
 ]
