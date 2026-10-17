@@ -4296,5 +4296,12 @@
     "description": "Read ToK revision notes, including essay prescribed titles (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "Theory of Knowledge"
+  },
+  {
+    "name": "Full Stack Open",
+    "url": "https://fullstackopen.com",
+    "description": "Learn modern web development with a free University of Helsinki course.",
+    "section": "Building Software / Learn to Code",
+    "subsection": "Learn to Code"
   }
 ]
