@@ -4352,5 +4352,12 @@
     "description": "Revise A-Level Further Maths with notes and past papers (freemium).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
+  },
+  {
+    "name": "OpenStax Physics",
+    "url": "https://openstax.org/details/books/physics",
+    "description": "Read a free peer-reviewed physics textbook with practice problems.",
+    "section": "By Subject",
+    "subsection": "Physics"
   }
 ]
