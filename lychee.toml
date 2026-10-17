@@ -40,9 +40,15 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # sacred-texts.com triggers an HTTP/2 protocol error in lychee's client, oranoai.com returns a
 # bogus 404 to GitHub-hosted runner IPs, and siriusrevision.com times out intermittently. These
 # are bot/IP-blocking and client quirks, not dead sites, so they are excluded instead of removed.
+# tutorial.math.lamar.edu (By Subject > Mathematics, Paul's Online Math Notes) is a long-running,
+# actively maintained site (copyright 2026), but as of 2026-10-17 Lamar University's DNS publishes
+# its CNAME (tutorial-math.wip.lamar.edu) with no address record behind it, so every resolver fails
+# (curl exit 6). That looks like a university-side DNS/hosting outage, not a retired resource, so it
+# is excluded instead of removed; drop this exclusion once the site resolves again.
 exclude = [
   "https://www.cambridgeincolour.com/",
   "https://sacred-texts.com/",
   "https://oranoai.com/",
   "https://www.siriusrevision.com/",
+  "https://tutorial.math.lamar.edu/",
 ]
