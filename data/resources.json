@@ -4317,5 +4317,12 @@
     "description": "Explains A-Level chemistry topics clearly with worked examples (free).",
     "section": "Exam & Curriculum Prep",
     "subsection": "A-Level"
+  },
+  {
+    "name": "Idealist",
+    "url": "https://www.idealist.org",
+    "description": "Find local volunteering opportunities for CAS service hours (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "CAS"
   }
 ]
