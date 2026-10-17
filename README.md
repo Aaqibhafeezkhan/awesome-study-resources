@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-613-blue)
+![Resources](https://img.shields.io/badge/resources-614-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 119 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 120 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 379 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -261,6 +261,7 @@ Official and community prep for the big exams and curricula.
 - **[Lanterna Education](https://lanterna.com/resources/master-ib-tok-guide)** - Free guide to TOK's exhibition, essay, and areas of knowledge (free).
 - **[Nail IB](https://nailib.com/ib-resources/theory-of-knowledge)** - Free videos and notes covering TOK knowledge questions and themes (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-theory-of-knowledge-tok)** - Notes, flashcards, and a question bank for IB Theory of Knowledge (freemium).
+- **[Save My Exams Theory of Knowledge](https://www.savemyexams.com/dp/core/ib/theory-of-knowledge/20/)** - Read ToK revision notes, including essay prescribed titles (freemium).
 - **[Theory of Knowledge](https://theoryofknowledge.net)** - Free video explainers and guides for the TOK essay and exhibition (freemium).
 - **[TOK Resource](https://www.tokresource.org)** - Free, non-commercial TOK concepts, prompts, and lesson ideas (free).
 - **[ToK Today](https://www.toktoday.com/)** - Offers TOK essay and exhibition guidance, videos, and coaching (freemium).
