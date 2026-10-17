@@ -4310,5 +4310,12 @@
     "description": "Solve a curated set of classic algorithm problems (free).",
     "section": "Building Software / Learn to Code",
     "subsection": "Coding Practice"
+  },
+  {
+    "name": "Chemguide",
+    "url": "https://www.chemguide.co.uk",
+    "description": "Explains A-Level chemistry topics clearly with worked examples (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "A-Level"
   }
 ]

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-616-blue)
+![Resources](https://img.shields.io/badge/resources-617-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -33,7 +33,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 | | Section | Resources |
 | :-: | --- | :-: |
-| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 120 |
+| <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 121 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 379 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
@@ -60,6 +60,7 @@ Official and community prep for the big exams and curricula.
 
 - **[A Level Physics Online](https://www.alevelphysicsonline.com/)** - Free A-Level Physics revision notes with worked explanations and past paper guidance (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject (free).
+- **[Chemguide](https://www.chemguide.co.uk)** - Explains A-Level chemistry topics clearly with worked examples (free).
 - **[Get Revising](https://getrevising.co.uk)** - Free revision timetables, flashcards, and a shared notes library (free).
 - **[Physics & Maths Tutor](https://www.physicsandmathstutor.com)** - Free past papers, mark schemes, and notes across subjects (free).
 - **[Revision Science](https://revisionscience.com)** - Free GCSE and A-Level science revision notes, videos, and past papers (free).
