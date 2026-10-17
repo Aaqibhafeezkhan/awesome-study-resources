@@ -4366,5 +4366,12 @@
     "description": "Read a free peer-reviewed biology textbook online or as PDF.",
     "section": "By Subject",
     "subsection": "Biology"
+  },
+  {
+    "name": "Nand2Tetris",
+    "url": "https://www.nand2tetris.org",
+    "description": "Build a computer from logic gates to software (free).",
+    "section": "By Subject",
+    "subsection": "Computer Science"
   }
 ]
