@@ -4240,5 +4240,12 @@
     "description": "Offers an ACT test guide and free practice questions (freemium).",
     "section": "Exam & Curriculum Prep",
     "subsection": "ACT"
+  },
+  {
+    "name": "AP Central",
+    "url": "https://apcentral.collegeboard.org",
+    "description": "Browse official AP course descriptions, exam formats, and past free-response questions (free).",
+    "section": "Exam & Curriculum Prep",
+    "subsection": "AP"
   }
 ]
