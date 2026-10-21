@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-629-blue)
+![Resources](https://img.shields.io/badge/resources-650-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
-| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 387 |
+| <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 407 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
 | <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 17 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
@@ -424,6 +424,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Design Museum](https://designmuseum.org/)** - Explores design history, objects, and learning resources (free).
 - **[DTBase](https://designandtechbase.com/)** - Free GCSE and A-Level Design and Technology notes and past papers (freemium).
 - **[IB Guides](https://ibguides.com/design-technology/home/)** - Free Design Technology syllabus objectives, unit guides, and videos (free).
+- **[James Dyson Foundation](https://www.jamesdysonfoundation.co.uk/)** - Work through design engineering challenges and lesson resources (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Design-Technology-(HL))** - Free student-written study guides and flashcards for IB Design Technology, by unit (freemium).
 - **[Lanterna Education](https://lanterna.com/resources/ib-design-tech-ia)** - Free guide to the IB Design Technology internal assessment's design cycle (free).
 - **[Nail IB](https://nailib.com/blog/ib-design-technology-ia)** - Free guide to the IB Design Technology internal assessment (free).
@@ -444,6 +445,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Pew Research Center](https://www.pewresearch.org/internet/)** - Free, nonpartisan research and data on technology's impact on society (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-itgs)** - Notes, flashcards, and a question bank for IB ITGS (freemium).
 - **[StudyIB](https://studyib.net/itgs)** - Concise revision notes and explanations across the ITGS syllabus (freemium).
+- **[Surveillance Self-Defense](https://ssd.eff.org/)** - Learn how to protect your privacy and security online (free).
 
 </details>
 
@@ -456,8 +458,8 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[EconEdLink](https://econedlink.org/)** - Free lessons, videos, and interactive tools on economics and personal finance (free).
 - **[Economics Academy](https://economicsacademy.co.uk/)** - Free A-Level economics notes, flashcards, practice questions, and past papers (free).
 - **[Economics Help](https://www.economicshelp.org)** - Revision notes and blog posts covering micro and macroeconomics topics (freemium).
+- **[Economics Observatory](https://www.economicsobservatory.com/)** - Read plain-language answers to questions about the UK and global economy (free).
 - **[Economics Online](https://www.economicsonline.co.uk)** - Revise economics concepts with clear articles and diagrams (free).
-- **[EconplusDal](https://www.youtube.com/@EconplusDal)** - Exam-focused economics tutorials for A-Level and IB (free).
 - **[Khan Academy](https://www.khanacademy.org/economics-finance-domain)** - Free video lessons and practice exercises on micro and macroeconomics (free).
 - **[Marginal Revolution University](https://mru.org)** - Free economics videos from working economists (free).
 - **[Primate economics](https://www.youtube.com/@Primateeconomics)** - Basics of Economic theories explained in a comedic manner (free).
@@ -470,6 +472,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Accounting Stuff](https://www.youtube.com/@AccountingStuff)** - Watch step-by-step accounting lessons from a qualified accountant (free).
 - **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
 - **[AccountingVerse](https://www.accountingverse.com)** - Free tutorials covering bookkeeping, financial statements, and accounting theory (free).
 - **[Bean Counter](https://www.dwmbeancounter.com/)** - Free bookkeeping and accounting courses, tutorials, and videos for beginners (free).
@@ -494,6 +497,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Dinesh Bakshi](https://dineshbakshi.com/)** - Free notes, quizzes, and worksheets for GCSE, A-Level, and IB Business Studies (free).
 - **[Economics Help](https://www.economicshelp.org)** - Explains business and economics concepts through revision notes and guides (free).
 - **[IGCSE Business](https://www.igcsebusiness.co.uk)** - Free Cambridge IGCSE Business notes and past papers by topic (free).
+- **[Investopedia](https://www.investopedia.com/)** - Look up business, finance and accounting terms with worked examples (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive business revision (freemium).
 - **[Sense Business](https://sensebusiness.co.uk/)** - Free GCSE business studies revision notes and topic quizzes (free).
 - **[TakingTheBiz](https://www.youtube.com/TakingTheBiz)** - Video revision lessons for GCSE, A-Level, and IB Business (free).
@@ -507,6 +511,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[CliffsNotes](https://www.cliffsnotes.com/literature)** - Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).
+- **[Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/)** - Read and search the complete works of Shakespeare (free).
 - **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
 - **[LanguageTool](https://languagetool.org)** - Free, open grammar and style checker in many languages (freemium).
 - **[LitCharts](https://www.litcharts.com)** - Study guides with summaries, themes, and quotes for literature texts (freemium).
@@ -531,6 +536,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[HelloTalk](https://www.hellotalk.com/)** - Practice real conversations by chatting with native speakers worldwide (freemium).
 - **[italki](https://www.italki.com)** - Book 1-on-1 sessions with language tutors worldwide (paid).
 - **[Language Reactor](https://www.languagereactor.com)** - Learn languages from real video and subtitles (freemium).
+- **[Language Transfer](https://www.languagetransfer.org/)** - Learn a language from audio courses built on understanding, not memorizing (free).
 - **[LingQ](https://www.lingq.com)** - Teaches vocabulary in context by reading and listening to real texts (freemium).
 - **[Memrise](https://www.memrise.com)** - Vocabulary and listening practice with native-speaker videos (freemium).
 - **[Tatoeba](https://tatoeba.org/)** - Searches example sentences with translations in hundreds of languages (free).
@@ -551,6 +557,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Perseus Digital Library](https://www.perseus.tufts.edu/hopper/)** - Free, searchable library of Latin and Greek texts with translations and word studies (free).
 - **[Textkit](https://www.textkit.com/)** - Free downloadable Latin and Greek grammars, readers, and an active learners' forum (free).
 - **[The Latin Library](https://www.thelatinlibrary.com)** - Free archive of Latin texts and grammar reference handouts (free).
+- **[Vicipaedia](https://la.wikipedia.org/)** - Read Wikipedia articles written in Latin (free, open source).
 - **[Whitaker's Words](https://latin-words.com)** - Look up Latin words and see their forms and meanings (free).
 
 </details>
@@ -565,6 +572,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[History of Philosophy without any gaps](https://historyofphilosophy.net)** - Follow philosophy's history through a long-running podcast (free).
 - **[Internet Encyclopedia of Philosophy](https://iep.utm.edu/)** - Free, peer-reviewed articles on philosophical topics and thinkers (free).
 - **[Philosophize This!](https://www.philosophizethis.org/)** - Free podcast walking through the history of philosophy for beginners (free).
+- **[Philosophy Bites](https://www.philosophybites.com/)** - Listen to short interviews with leading philosophers on one question each (free).
 - **[Philosophy Now](https://philosophynow.org)** - Magazine covering philosophical ideas and debates, four articles free per month (freemium).
 - **[Philosophy Tube](https://www.youtube.com/@philosophytube)** - Free video essays exploring philosophical ideas, thinkers, and debates (free).
 - **[Royal Institute of Philosophy](https://royalinstitutephilosophy.org/education/online-learning/)** - Shares philosophy briefings, lectures, podcasts, and A-Level study guides (free).
@@ -583,6 +591,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Database of Religious History](https://religiondatabase.org/landing/)** - Free, scholarly encyclopedia of religious traditions across history (free).
 - **[IB World Religions](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/world-religions/)** - Outlines the official IB syllabus covering nine major religions (free).
 - **[Internet Sacred Text Archive](https://sacred-texts.com/)** - Free archive of religious and sacred texts from world traditions (free).
+- **[Pew Research Center Religion](https://www.pewresearch.org/religion/)** - Browse nonpartisan data and reports on religion around the world (free).
 - **[Religion and Public Life](https://rpl.hds.harvard.edu)** - Free HarvardX courses and research on world religious traditions (freemium).
 - **[ReligionFacts](https://religionfacts.com)** - Compare world religions with neutral overviews and glossaries (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-world-religions)** - Bite-sized topic summaries and IA exemplars for IB World Religions (freemium).
@@ -605,6 +614,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Oversimplified](https://youtube.com/@oversimplified)** - Teaching important events in History in an oversimplified way (free).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level History revision (freemium).
 - **[Spartacus Educational](https://spartacus-educational.com)** - Free history encyclopedia covering British, American, and world history topics (free).
+- **[The National Archives Education](https://www.nationalarchives.gov.uk/education/)** - Use classroom resources built around original historical records (free).
 - **[Tom Richey](https://www.youtube.com/@tomrichey)** - Free AP US History and AP European History lecture videos (free).
 
 </details>
@@ -615,6 +625,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
+- **[Gapminder](https://www.gapminder.org/)** - Explore world development data with interactive charts and teaching tools (free).
 - **[Global Issues](https://www.globalissues.org/)** - Free analysis of interconnected social, political, and economic global issues (free).
 - **[IGCSE Global Perspectives .net](https://igcseglobalperspectives.net/)** - Free student resources, IR templates, and team project guidance (freemium).
 - **[Kialo Edu](https://www.kialo-edu.com)** - Free tool for mapping structured pro and con debates (free).
@@ -638,6 +649,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[GloPo IB](https://glopoib.wordpress.com)** - Shares revision booklets, case studies, and theory summaries (free).
 - **[GloPoPolis](https://www.glopopolis.org)** - Free online textbook covering the IB Global Politics syllabus by topic (free).
 - **[IB Global Politics](https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/)** - Outlines the official IB syllabus and core concepts (free).
+- **[International Crisis Group](https://www.crisisgroup.org/)** - Read field-based analysis of conflicts and how they might be resolved (free).
 - **[Knowt](https://knowt.com/exams/IB/IB-Global-Politics-(SL))** - Free student-written IB Global Politics notes and flashcards by unit (freemium).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-global-politics)** - Provides notes, case studies, and a question bank (freemium).
 - **[Simple Studies](https://www.simplestudies.org/studyguides/ib-global-politics)** - Offers a free downloadable IB Global Politics study guide (free).
@@ -658,6 +670,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Primrose Kitten](https://www.youtube.com/@PrimroseKitten)** - Free video revision covering GCSE Classical Civilisation topics (free).
 - **[Revision World](https://revisionworld.com/content/classical-civilisation)** - Free OCR GCSE Classical Civilisation revision guides and resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Classical Civilisation revision content (free).
+- **[The Classical Association](https://classicalassociation.org/resources/)** - Find teaching resources on the ancient Greek and Roman world (free).
 - **[Theoi Greek Mythology](https://www.theoi.com/)** - Free, primary-source encyclopedia of Greek mythology, art, and texts (free).
 - **[Warwick Classics Network](https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/stoa/classciv/gcse/)** - Free university-backed GCSE Classical Civilisation videos and resources (free).
 - **[World History Encyclopedia](https://www.worldhistory.org/)** - Free, fact-checked reference articles on ancient Greek and Roman civilisation (free).
@@ -678,6 +691,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Our World in Data](https://ourworldindata.org)** - Explore interactive charts on population, climate, and development (free).
 - **[Royal Geographical Society](https://www.rgs.org/schools/resources-for-schools)** - Free case studies, fieldwork guidance, and careers resources for geography students (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive geography revision (freemium).
+- **[Seterra](https://www.seterra.com/)** - Practice map quizzes on countries, capitals and flags (free).
 - **[The Geography Hub](https://learngeographyonline.com)** - Free GCSE geography past papers, explainer articles, and a glossary (free).
 
 </details>
@@ -693,6 +707,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[LawTeacher.net](https://www.lawteacher.net/)** - Free UK law revision notes, case summaries, and essay guides (free).
 - **[Legal Information Institute](https://www.law.cornell.edu)** - Read US law and the Wex legal encyclopedia (free).
 - **[legislation.gov.uk](https://www.legislation.gov.uk)** - The official, free database of UK legislation (free).
+- **[Oyez](https://www.oyez.org/)** - Listen to US Supreme Court oral arguments and read case summaries (free).
 - **[Revision World](https://revisionworld.com/a2-level-level-revision/law-level-revision)** - Free A-Level Law revision guides, notes, and past papers (free).
 - **[Save My Exams](https://www.savemyexams.com)** - Revision notes, topic questions, and past papers for A-Level Law (freemium).
 - **[The Supreme Court](https://www.supremecourt.uk/)** - Official free judgments, case summaries, and education resources from the UK's top court (free).
@@ -707,6 +722,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Aimnova](https://www.aimnova.app/ib-ess/notes)** - Free IB ESS notes, flashcards, and practice questions with no sign-up (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across environmental systems and ecology (free).
+- **[En-ROADS](https://en-roads.climateinteractive.org/)** - Test how policies change global warming in a climate simulator (free).
 - **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS (freemium).
 - **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries (free).
 - **[Mr Kremer's Science](https://mrkremerscience.com/new-ess/)** - Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).
@@ -727,6 +743,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
 - **[ExRx.net](https://exrx.net)** - Free exercise and kinesiology reference library covering training and prescription (freemium).
 - **[Knowt](https://knowt.com/exams/IB/IB-Sports,-Exercise,-and-Health-Science-(SL))** - Free student-written IB Sports, Exercise and Health Science notes and flashcards by unit (freemium).
+- **[OpenStax Anatomy and Physiology](https://openstax.org/details/books/anatomy-and-physiology-2e)** - Read a full human anatomy and physiology textbook (free, open source).
 - **[Physiopedia](https://www.physio-pedia.com)** - Free, evidence-based knowledge base covering anatomy, injury, and rehabilitation (free).
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus)** - Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).
 - **[Science for Sport](https://www.scienceforsport.com)** - Study sports science through articles and courses (freemium).
@@ -743,6 +760,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
 - **[Academy of Nutrition and Dietetics](https://www.eatright.org/)** - Nutrition guidance and healthy-eating articles from registered dietitians (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
+- **[British Nutrition Foundation](https://www.nutrition.org.uk/)** - Read evidence-based guides to healthy, sustainable eating (free).
 - **[Food – A Fact of Life](https://www.foodafactoflife.org.uk)** - Teaches nutrition, cooking skills, and food science for GCSE level (free).
 - **[FoodUnfolded](https://www.foodunfolded.com/)** - Free articles and courses on food science, nutrition, and sustainability (free).
 - **[NHS Eatwell Guide](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/)** - Official NHS guide to balanced diets and food groups (free).
@@ -769,6 +787,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Study Rocket](https://studyrocket.co.uk/revision/gcse-health-and-social-care-ccea)** - Free exam board-specific GCSE Health and Social Care revision content (free).
 - **[The King's Fund](https://www.kingsfund.org.uk/)** - Read independent analysis of health and social care policy in England (free).
 - **[tutor2u](https://www.tutor2u.net/free/hsc)** - Free revision notes and teaching resources for Health and Social Care (freemium).
+- **[WHO Health Topics](https://www.who.int/health-topics)** - Browse fact sheets on global health topics from the World Health Organization (free).
 
 </details>
 
@@ -777,6 +796,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[American Anthropological Association](https://americananthro.org/learn-teach/)** - Explore what anthropology is, with teaching and learning resources (free).
 - **[Anthropology News](https://www.anthropology-news.org)** - Free AAA magazine covering current anthropological research and teaching (free).
 - **[Discover Anthropology](https://discoveranthropology.org.uk/)** - Introduces anthropology as a field with study and career guidance (free).
 - **[Fieldsights](https://culanth.org/fieldsights)** - Read open-access essays and podcasts from working cultural anthropologists (free).
