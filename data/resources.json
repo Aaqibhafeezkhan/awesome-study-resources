@@ -1050,13 +1050,6 @@
     "subsection": "Economics"
   },
   {
-    "name": "EconplusDal",
-    "url": "https://www.youtube.com/@EconplusDal",
-    "description": "Exam-focused economics tutorials for A-Level and IB (free).",
-    "section": "By Subject",
-    "subsection": "Economics"
-  },
-  {
     "name": "Khan Academy",
     "url": "https://www.khanacademy.org/economics-finance-domain",
     "description": "Free video lessons and practice exercises on micro and macroeconomics (free).",
@@ -4408,5 +4401,152 @@
     "description": "Type by voice in any text box, with speech recognized in your browser (free).",
     "section": "Writing, Citations & Reference",
     "subsection": null
+  },
+  {
+    "name": "James Dyson Foundation",
+    "url": "https://www.jamesdysonfoundation.co.uk/",
+    "description": "Work through design engineering challenges and lesson resources (free).",
+    "section": "By Subject",
+    "subsection": "Design Technology"
+  },
+  {
+    "name": "Economics Observatory",
+    "url": "https://www.economicsobservatory.com/",
+    "description": "Read plain-language answers to questions about the UK and global economy (free).",
+    "section": "By Subject",
+    "subsection": "Economics"
+  },
+  {
+    "name": "Accounting Stuff",
+    "url": "https://www.youtube.com/@AccountingStuff",
+    "description": "Watch step-by-step accounting lessons from a qualified accountant (free).",
+    "section": "By Subject",
+    "subsection": "Accounting"
+  },
+  {
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com/",
+    "description": "Look up business, finance and accounting terms with worked examples (free).",
+    "section": "By Subject",
+    "subsection": "Business Studies"
+  },
+  {
+    "name": "Folger Shakespeare Library",
+    "url": "https://www.folger.edu/explore/shakespeares-works/",
+    "description": "Read and search the complete works of Shakespeare (free).",
+    "section": "By Subject",
+    "subsection": "English Language and Literature"
+  },
+  {
+    "name": "Language Transfer",
+    "url": "https://www.languagetransfer.org/",
+    "description": "Learn a language from audio courses built on understanding, not memorizing (free).",
+    "section": "By Subject",
+    "subsection": "Foreign Languages"
+  },
+  {
+    "name": "Vicipaedia",
+    "url": "https://la.wikipedia.org/",
+    "description": "Read Wikipedia articles written in Latin (free, open source).",
+    "section": "By Subject",
+    "subsection": "Latin"
+  },
+  {
+    "name": "Philosophy Bites",
+    "url": "https://www.philosophybites.com/",
+    "description": "Listen to short interviews with leading philosophers on one question each (free).",
+    "section": "By Subject",
+    "subsection": "Philosophy"
+  },
+  {
+    "name": "Pew Research Center Religion",
+    "url": "https://www.pewresearch.org/religion/",
+    "description": "Browse nonpartisan data and reports on religion around the world (free).",
+    "section": "By Subject",
+    "subsection": "World Religions"
+  },
+  {
+    "name": "The National Archives Education",
+    "url": "https://www.nationalarchives.gov.uk/education/",
+    "description": "Use classroom resources built around original historical records (free).",
+    "section": "By Subject",
+    "subsection": "History"
+  },
+  {
+    "name": "Gapminder",
+    "url": "https://www.gapminder.org/",
+    "description": "Explore world development data with interactive charts and teaching tools (free).",
+    "section": "By Subject",
+    "subsection": "Global Perspectives"
+  },
+  {
+    "name": "International Crisis Group",
+    "url": "https://www.crisisgroup.org/",
+    "description": "Read field-based analysis of conflicts and how they might be resolved (free).",
+    "section": "By Subject",
+    "subsection": "Global Politics"
+  },
+  {
+    "name": "The Classical Association",
+    "url": "https://classicalassociation.org/resources/",
+    "description": "Find teaching resources on the ancient Greek and Roman world (free).",
+    "section": "By Subject",
+    "subsection": "Classical Civilisation"
+  },
+  {
+    "name": "Seterra",
+    "url": "https://www.seterra.com/",
+    "description": "Practice map quizzes on countries, capitals and flags (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
+  },
+  {
+    "name": "Oyez",
+    "url": "https://www.oyez.org/",
+    "description": "Listen to US Supreme Court oral arguments and read case summaries (free).",
+    "section": "By Subject",
+    "subsection": "Law"
+  },
+  {
+    "name": "En-ROADS",
+    "url": "https://en-roads.climateinteractive.org/",
+    "description": "Test how policies change global warming in a climate simulator (free).",
+    "section": "By Subject",
+    "subsection": "Environmental Systems & Societies"
+  },
+  {
+    "name": "OpenStax Anatomy and Physiology",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+    "description": "Read a full human anatomy and physiology textbook (free, open source).",
+    "section": "By Subject",
+    "subsection": "Sports, Exercise & Health Science"
+  },
+  {
+    "name": "British Nutrition Foundation",
+    "url": "https://www.nutrition.org.uk/",
+    "description": "Read evidence-based guides to healthy, sustainable eating (free).",
+    "section": "By Subject",
+    "subsection": "Food & Nutrition"
+  },
+  {
+    "name": "WHO Health Topics",
+    "url": "https://www.who.int/health-topics",
+    "description": "Browse fact sheets on global health topics from the World Health Organization (free).",
+    "section": "By Subject",
+    "subsection": "Health and Social Care"
+  },
+  {
+    "name": "American Anthropological Association",
+    "url": "https://americananthro.org/learn-teach/",
+    "description": "Explore what anthropology is, with teaching and learning resources (free).",
+    "section": "By Subject",
+    "subsection": "Social and Cultural Anthropology"
+  },
+  {
+    "name": "Surveillance Self-Defense",
+    "url": "https://ssd.eff.org/",
+    "description": "Learn how to protect your privacy and security online (free).",
+    "section": "By Subject",
+    "subsection": "ITGS"
   }
 ]
