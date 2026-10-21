@@ -105,6 +105,8 @@ v1.0.0 tag itself.
 
 - Photography Revision from By Subject / Photography: the domain has expired
   and now serves a Namecheap parking page (#183).
+- EconplusDal from By Subject / Economics: its YouTube handle (@EconplusDal) now
+  returns 404 (#449).
 
 ## [1.0.0] - 2026-08-11
 
