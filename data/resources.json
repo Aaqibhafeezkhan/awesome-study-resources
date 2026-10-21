@@ -1,5 +1,12 @@
 [
   {
+    "name": "Printable Flashcard Maker",
+    "url": "https://flashcards.code-harmony.top/",
+    "description": "Turn text, images or spreadsheet lists into printable PDFs (free).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
+  },
+  {
     "name": "BBC Bitesize",
     "url": "https://www.bbc.co.uk/bitesize",
     "description": "Free curriculum-aligned revision across every core A-Level subject (free).",
