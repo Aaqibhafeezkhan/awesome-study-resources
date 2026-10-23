@@ -343,7 +343,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
-- **[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
+- **[HyperPhysics](https://hyperphysics.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
 - **[Isaac Physics](https://isaacscience.org)** - Free, problem-based physics learning platform built by the University of Cambridge (free).
 - **[Khan Academy Physics](https://www.khanacademy.org/science/physics)** - Free lessons and practice across the physics syllabus (free).
 - **[MinutePhysics](https://www.youtube.com/@minutephysics)** - Short animated videos explaining physics concepts clearly and concisely (free).

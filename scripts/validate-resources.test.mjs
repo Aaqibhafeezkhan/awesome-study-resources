@@ -56,13 +56,14 @@ test('non-string, non-null subsection is flagged', () => {
   assert.ok(errors.some((e) => /"subsection" must be a non-empty string or null/.test(e)));
 });
 
-test('url must start with https:// or http://', () => {
+test('url must start with https://', () => {
   const errors = validateResources([{ ...VALID_RECORD, url: 'ftp://apple.example' }]);
   assert.ok(errors.some((e) => /must start with "https:\/\/"/.test(e)));
 });
 
-test('http:// urls are accepted', () => {
-  assert.deepEqual(validateResources([{ ...VALID_RECORD, url: 'http://apple.example' }]), []);
+test('http:// urls are rejected', () => {
+  const errors = validateResources([{ ...VALID_RECORD, url: 'http://apple.example' }]);
+  assert.ok(errors.some((e) => e.includes('must start with "https://"')));
 });
 
 test('duplicate section/subsection/name combo is flagged', () => {

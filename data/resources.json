@@ -715,7 +715,7 @@
   },
   {
     "name": "HyperPhysics",
-    "url": "http://hyperphysics.phy-astr.gsu.edu/hbase/index.html",
+    "url": "https://hyperphysics.gsu.edu/hbase/index.html",
     "description": "Free concept map linking every core physics topic (free).",
     "section": "By Subject",
     "subsection": "Physics"
