@@ -46,7 +46,7 @@ README.md is generated, not hand-edited: it's built from `data/resources.json` b
 Field reference:
 
 - `name` - the link text.
-- `url` - the homepage, starting with `https://` (or `http://` for the rare site with no https variant).
+- `url` - the homepage, starting with `https://`. Plain HTTP URLs are not accepted.
 - `description` - the full description text exactly as it should render, trailing period and any pricing parenthetical included. This is the whole sentence, not just the prose part: don't split pricing into a separate field, it won't be re-appended.
 - `section` - the exact `##` heading text this entry belongs under (see "Where it goes" below), e.g. `"By Subject"`.
 - `subsection` - the exact `###` heading text within that section, e.g. `"Mathematics"`, or `null` if the section has no subsections (see "Where it goes" below for which sections do).
@@ -119,7 +119,7 @@ node scripts/check-list-format.mjs
 node scripts/update-counts.mjs --check
 ```
 
-- `scripts/validate-resources.mjs` checks `data/resources.json` itself: every record has a non-empty `name`, `url`, `description`, and `section`; `url` starts with `https://` (or `http://`); `subsection` is a non-empty string or `null`; and no two records share the same `section` + `subsection` + `name`.
+- `scripts/validate-resources.mjs` checks `data/resources.json` itself: every record has a non-empty `name`, `url`, `description`, and `section`; `url` starts with `https://`; `subsection` is a non-empty string or `null`; and no two records share the same `section` + `subsection` + `name`.
 - `scripts/generate-readme.mjs --check` fails if README.md doesn't match what `data/resources.json` currently generates, i.e. you edited README.md by hand instead of the data file, or forgot to regenerate after editing the data file. Fix it with `node scripts/generate-readme.mjs` (no `--check`), which rewrites README.md in place.
 - `scripts/check-list-format.mjs` runs on the generated README.md as a safety net: it verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, that descriptions don't use marketing adjectives ("amazing," "powerful," and similar; see the `BANNED_ADJECTIVES` list in the script), and that the "Where it goes" list above stays in sync with README's section headings (same names, same order). The generator should always produce output that passes this, so a failure here on a generated README usually means a bug in the generator or the template, worth flagging.
 - `scripts/update-counts.mjs --check` fails if the header badges (`resources-N`, `sections-N`) or the per-section Table of Contents counts are out of date. These are also computed by the generator, so this is a second safety net rather than something you need to run separately in normal use.
