@@ -97,7 +97,9 @@ export const SECTIONS = [
     heading: 'AI & Academic Integrity',
     emoji: '⚖️',
     ariaLabel: 'AI and Academic Integrity icon',
-    blurb: "Know what's allowed, and how to cite AI-assisted work, before you submit.",
+    blurb:
+      "Know what's allowed, and how to cite AI-assisted work, before you submit. AI-text detectors give unreliable results and should not be treated as proof of misconduct: " +
+      "OpenAI [withdrew its own AI classifier](https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/) for low accuracy, and a [2023 study](https://arxiv.org/abs/2304.02819) found detectors consistently misclassify non-native English writing as AI-generated.",
   },
   {
     heading: 'Diagramming & STEM Tools',
