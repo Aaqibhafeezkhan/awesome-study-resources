@@ -26,11 +26,13 @@ jobs:
             [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-study-resources/blob/main/CONTRIBUTING.md)
             for how this list is maintained.
           pr_message: >
-            Thanks for your first PR! A couple of things that'll speed up review:
-            place your entry in its correct
-            alphabetical position, and make sure it meets the
+            Thanks for your first PR! Add one record per resource to
+            `data/resources.json`, then regenerate `README.md` with
+            `node scripts/generate-readme.mjs`; do not edit `README.md` by hand.
+            Follow the
+            [Entry format section of CONTRIBUTING.md](https://github.com/StudentSuite/awesome-study-resources/blob/main/CONTRIBUTING.md#entry-format)
+            and run the four local checks listed in
+            [CI checks](https://github.com/StudentSuite/awesome-study-resources/blob/main/CONTRIBUTING.md#ci-checks).
+            Also make sure each resource meets the
             [Quality Standards](https://github.com/StudentSuite/awesome-study-resources/blob/main/README.md#quality-standards)
-            (real, maintained, reputable, with pricing noted). CI will check the entry
-            format and alphabetical order automatically, see
-            [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-study-resources/blob/main/CONTRIBUTING.md)
-            for the full checklist.
+            (real, maintained, reputable, with pricing noted).
