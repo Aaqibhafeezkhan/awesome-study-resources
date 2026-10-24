@@ -3838,7 +3838,7 @@
   {
     "name": "PetaPixel",
     "url": "https://petapixel.com/",
-    "description": "Follow photography news, tutorials, and gear reviews (free, ad-free membership).",
+    "description": "Follow photography news, tutorials, and gear reviews; ad-free membership is paid (free).",
     "section": "By Subject",
     "subsection": "Photography"
   },
@@ -3866,7 +3866,7 @@
   {
     "name": "Dance Magazine",
     "url": "https://www.dancemagazine.com/",
-    "description": "Read dance news, features, and career advice (free, paid subscription).",
+    "description": "Read dance news, features, and career advice (freemium).",
     "section": "By Subject",
     "subsection": "Dance"
   },
@@ -3908,7 +3908,7 @@
   {
     "name": "Strang, Introduction to Linear Algebra",
     "url": "https://math.mit.edu/~gs/linearalgebra/",
-    "description": "Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).",
+    "description": "Learn linear algebra from MIT's Gilbert Strang; course materials are free (paid).",
     "section": "Great Textbooks",
     "subsection": null
   },
@@ -3978,7 +3978,7 @@
   {
     "name": "CS50x",
     "url": "https://cs50.harvard.edu/x/",
-    "description": "Learn computer science foundations in Harvard's course (free, certificate paid).",
+    "description": "Learn computer science foundations in Harvard's course; the certificate is paid (free).",
     "section": "By Subject",
     "subsection": "Computer Science"
   },
@@ -4055,7 +4055,7 @@
   {
     "name": "Study Rocket",
     "url": "https://studyrocket.co.uk/revision/a-level-physical-education-ocr",
-    "description": "Revise A Level PE topics with free notes (free, paid app).",
+    "description": "Revise A Level PE topics with free notes; the app is paid (free).",
     "section": "By Subject",
     "subsection": "Physical Education"
   },
@@ -4083,7 +4083,7 @@
   {
     "name": "Vocab Routine",
     "url": "https://apps.apple.com/us/app/vocab-routine-jlpt-topik/id6770267735",
-    "description": "Study Japanese and Korean flashcards with handwriting practice (iOS, freemium).",
+    "description": "Study Japanese and Korean flashcards with handwriting practice on iOS (freemium).",
     "section": "Flashcards & Spaced Repetition",
     "subsection": null
   },

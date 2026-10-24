@@ -134,6 +134,24 @@ test('marketing adjective in a description is flagged', () => {
   assert.ok(errors.some((e) => /marketing adjective.*amazing/.test(e)));
 });
 
+test('pricing tag outside the documented set is flagged', () => {
+  const readme = VALID_README.replace(
+    '- **[Apple](https://apple.example)** - A fruit tool (free).',
+    '- **[Apple](https://apple.example)** - A fruit tool (free, paid app).'
+  );
+  assert.ok(errorsFor(readme).some((e) => /Pricing tag "\(free, paid app\)"/.test(e)));
+});
+
+test('"free, open source" and the three bare tags pass the pricing check', () => {
+  for (const tag of ['free', 'freemium', 'paid', 'free, open source']) {
+    const readme = VALID_README.replace(
+      '- **[Apple](https://apple.example)** - A fruit tool (free).',
+      `- **[Apple](https://apple.example)** - A fruit tool (${tag}).`
+    );
+    assert.deepEqual(errorsFor(readme), []);
+  }
+});
+
 test('em dash in a description is flagged', () => {
   const readme = VALID_README.replace(
     '- **[Apple](https://apple.example)** - A fruit tool (free).',

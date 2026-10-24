@@ -404,7 +404,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons (freemium).
 - **[cp-algorithms](https://cp-algorithms.com)** - Free reference for competitive programming algorithms (free).
 - **[Craig 'n' Dave](https://craigndave.org/)** - Ad-free videos covering the full GCSE and A-Level Computer Science specs (freemium).
-- **[CS50x](https://cs50.harvard.edu/x/)** - Learn computer science foundations in Harvard's course (free, certificate paid).
+- **[CS50x](https://cs50.harvard.edu/x/)** - Learn computer science foundations in Harvard's course; the certificate is paid (free).
 - **[Firebase](https://firebase.google.com)** - Google backend for building apps quickly (freemium).
 - **[GeeksforGeeks](https://www.geeksforgeeks.org)** - Explains CS fundamentals, data structures, and algorithms with practice problems (freemium).
 - **[Khan Academy Computer Science](https://www.khanacademy.org/computing)** - Free lessons and practice across intro programming, SQL, and computer science (free).
@@ -854,7 +854,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Revision World](https://revisionworld.com/gcse-revision/pe-physical-education)** - Free GCSE PE revision guides, quizzes, and past papers (free).
 - **[Save My Exams](https://www.savemyexams.com/subjects/physical-education/)** - Revision notes, topic questions, and past papers for PE (freemium).
 - **[Seneca Learning](https://senecalearning.com)** - Free interactive GCSE and A-Level PE revision (freemium).
-- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-physical-education-ocr)** - Revise A Level PE topics with free notes (free, paid app).
+- **[Study Rocket](https://studyrocket.co.uk/revision/a-level-physical-education-ocr)** - Revise A Level PE topics with free notes; the app is paid (free).
 - **[Subskills](https://subskills.xyz)** - Learn sports techniques from videos sorted by skill level (free).
 - **[TeachPE.com](https://www.teachpe.com)** - Free revision quizzes and notes on anatomy, training, and skill acquisition for GCSE and A-Level PE (free).
 - **[The EverLearner](https://theeverlearner.com)** - Revision videos and resources for GCSE, A-Level, and BTEC PE and Sport (freemium).
@@ -908,7 +908,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/photography)** - Free class notes, flashcards, and quizzes for GCSE Photography (free).
 - **[iPhotography](https://www.iphotography.com/blog/gcse-photography-a-student-revision-guide/)** - Free guide to camera settings, composition, and exam-board expectations for GCSE Photography (free).
 - **[Magnum Photos](https://www.magnumphotos.com/)** - Browses documentary photography archives and essays (free).
-- **[PetaPixel](https://petapixel.com/)** - Follow photography news, tutorials, and gear reviews (free, ad-free membership).
+- **[PetaPixel](https://petapixel.com/)** - Follow photography news, tutorials, and gear reviews; ad-free membership is paid (free).
 - **[Photography Life](https://photographylife.com)** - Photography tutorials, camera reviews, and free beginner courses (free).
 - **[PhotoPedagogy](https://www.photopedagogy.com/)** - Shares photography teaching concepts, assignments, and analysis resources (free).
 - **[Study Rocket](https://studyrocket.co.uk)** - Free exam board-specific GCSE Photography revision content (free).
@@ -976,7 +976,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zg9jtfr)** - Covers GCSE dance revision notes, videos, and practice questions (free).
-- **[Dance Magazine](https://www.dancemagazine.com/)** - Read dance news, features, and career advice (free, paid subscription).
+- **[Dance Magazine](https://www.dancemagazine.com/)** - Read dance news, features, and career advice (freemium).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/dance)** - Free class notes, flashcards, and quizzes for GCSE Dance (free).
 - **[Rambert Classroom](https://rambert.org.uk/participation/schools-and-colleges/rambert-classroom/)** - Videos and guides on GCSE and A-Level Dance set works from a professional company (freemium).
 - **[Revision World](https://revisionworld.com/exam-subjects/dance)** - Free GCSE and A-Level Dance revision guides by exam board (free).
@@ -1036,7 +1036,7 @@ Remember more with less rereading.
 - **[SuperMemo](https://www.super-memory.com)** - The original spaced-repetition software for building long-term memory (freemium).
 - **[True Recall](https://www.truerecall.app)** - Turn Obsidian notes into spaced-repetition flashcards on desktop and mobile (freemium).
 - **[Vaia](https://www.vaia.com)** - Create flashcards with spaced repetition, notes, and study plans (freemium).
-- **[Vocab Routine](https://apps.apple.com/us/app/vocab-routine-jlpt-topik/id6770267735)** - Study Japanese and Korean flashcards with handwriting practice (iOS, freemium).
+- **[Vocab Routine](https://apps.apple.com/us/app/vocab-routine-jlpt-topik/id6770267735)** - Study Japanese and Korean flashcards with handwriting practice on iOS (freemium).
 
 </details>
 
@@ -1221,7 +1221,7 @@ Subject textbooks students and teachers keep coming back to.
 - **[Halliday, Resnick & Walker, Fundamentals of Physics](https://www.wiley.com/en-us/Fundamentals+of+Physics,+12th+Edition-p-9781119801122)** - Widely used introductory university physics text (paid).
 - **[OpenStax](https://openstax.org)** - Free, peer-reviewed textbooks across math and science (free).
 - **[Stewart, Calculus](https://www.stewartcalculus.com)** - The standard first calculus textbook (paid).
-- **[Strang, Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)** - Learn linear algebra from MIT's Gilbert Strang (paid, with free course materials).
+- **[Strang, Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)** - Learn linear algebra from MIT's Gilbert Strang; course materials are free (paid).
 - **[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)** - Landmark physics text, free to read online (free).
 
 </details>

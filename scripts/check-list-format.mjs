@@ -66,6 +66,11 @@ export function findBannedAdjective(desc) {
   return null;
 }
 
+// The pricing parentheticals CONTRIBUTING.md documents. A description that ends
+// in a parenthetical outside this set is an error, so the monthly pricing
+// review (scripts/pricing-review.mjs) can read every tag.
+export const ALLOWED_PRICING_TAGS = new Set(['free', 'freemium', 'paid', 'free, open source']);
+
 export function slugify(text) {
   return text
     .toLowerCase()
@@ -134,6 +139,12 @@ export function checkListFormat(readmeText, contributingText) {
       const banned = findBannedAdjective(item[3]);
       if (banned) {
         errors.push(`README.md:${i + 1}  Description uses a marketing adjective ("${banned}"): ${line}`);
+      }
+      const tag = item[3].match(/\(([^()]*)\)\.$/)?.[1];
+      if (tag !== undefined && !ALLOWED_PRICING_TAGS.has(tag)) {
+        errors.push(
+          `README.md:${i + 1}  Pricing tag "(${tag})" is not one of ${[...ALLOWED_PRICING_TAGS].map((t) => `(${t})`).join(', ')}; move the nuance into the description: ${line}`
+        );
       }
       if (item[3].includes('—')) {
         errors.push(`README.md:${i + 1}  Description uses an em dash, CONTRIBUTING.md says no em dashes: ${line}`);
