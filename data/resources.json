@@ -4555,5 +4555,12 @@
     "description": "Learn how to protect your privacy and security online (free).",
     "section": "By Subject",
     "subsection": "ITGS"
+  },
+  {
+    "name": "WikiCards World Capitals Quiz",
+    "url": "https://playwikicards.com/world-capitals-quiz/",
+    "description": "Practice 20 world capitals a day, with answers (free).",
+    "section": "By Subject",
+    "subsection": "Geography"
   }
 ]
