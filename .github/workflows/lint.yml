@@ -1,18 +1,9 @@
 name: Lint
 
 on:
+  # No `paths:` filter here: main's branch protection requires this check, and a
+  # path-skipped workflow never reports a status, which blocks the merge button.
   pull_request:
-    paths:
-      - README.md
-      - CONTRIBUTING.md
-      - data/resources.json
-      - scripts/check-list-format.mjs
-      - scripts/audit-duplicate-urls.mjs
-      - scripts/update-counts.mjs
-      - scripts/validate-resources.mjs
-      - scripts/generate-readme.mjs
-      - scripts/readme-template.mjs
-      - .github/workflows/lint.yml
   push:
     branches:
       - main

@@ -1,10 +1,9 @@
 name: Test
 
 on:
+  # No `paths:` filter here: main's branch protection requires this check, and a
+  # path-skipped workflow never reports a status, which blocks the merge button.
   pull_request:
-    paths:
-      - scripts/**
-      - .github/workflows/test.yml
   push:
     branches:
       - main
