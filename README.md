@@ -323,9 +323,9 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <details open>
 <summary>Show resources</summary>
 
+- **[Advanced Mathematics Support Programme](https://amsp.org.uk/)** - Online Further Maths support and resources for English state-school students (free).
 - **[Dr Frost Maths](https://www.drfrost.org)** - Provides further maths questions, videos, and auto-marked worksheets (freemium).
 - **[ExamSolutions](https://www.examsolutions.net)** - Video tutorials covering A-Level Maths and Further Maths topics (free).
-- **[Further Mathematics Support Programme](https://furthermaths.org.uk)** - Resources and videos supporting A-Level Further Maths students (free).
 - **[MathsGenie](https://mathsgenie.co.uk/a-level/further-maths)** - Free A-Level Further Maths past papers, mark schemes, and video solutions by exam board (freemium).
 - **[MEI](https://mei.org.uk)** - UK charity with free courses and problem sets supporting Further Maths students (free).
 - **[NRICH](https://nrich.maths.org)** - Stretch problem-solving with Cambridge's rich maths problems (free).
@@ -623,6 +623,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
+- **[CFR Education](https://www.cfr.org/education)** - Free CFR modules explaining international relations and global issues (free).
 - **[Gapminder](https://www.gapminder.org/)** - Explore world development data with interactive charts and teaching tools (free).
 - **[Global Issues](https://www.globalissues.org/)** - Free analysis of interconnected social, political, and economic global issues (free).
 - **[IGCSE Global Perspectives .net](https://igcseglobalperspectives.net/)** - Free student resources, IR templates, and team project guidance (freemium).
@@ -631,7 +632,6 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pro and con research on controversial global issues (free).
 - **[Save My Exams](https://www.savemyexams.com/learning-hub/subject-guides/igcse-global-perspectives-topics/)** - Lists topics and revision notes for IGCSE Global Perspectives by exam board (freemium).
 - **[UN Sustainable Development Goals](https://sdgs.un.org/)** - Tracks global issues, goals, and data from the United Nations (free).
-- **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and global issues (free).
 - **[ZNotes](https://znotes.org/caie/igcse/global-perspectives-0457/)** - Summarizes syllabus topics and exam skills for Global Perspectives (freemium).
 
 </details>
@@ -642,6 +642,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 <summary>Show resources</summary>
 
 - **[12 Axes](https://12axes.site/)** - Place your political views on twelve separate axes (free).
+- **[CFR Education](https://www.cfr.org/education)** - Free CFR modules explaining international relations and foreign policy (free).
 - **[Chatham House](https://www.chathamhouse.org/)** - Free analysis and research on international relations and global politics (freemium).
 - **[Global Issues](https://www.globalissues.org)** - Read in-depth articles on poverty, conflict, and global affairs (free).
 - **[GloPo IB](https://glopoib.wordpress.com)** - Shares revision booklets, case studies, and theory summaries (free).
@@ -652,7 +653,6 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[RevisionDojo](https://www.revisiondojo.com/ib/ib-global-politics)** - Provides notes, case studies, and a question bank (freemium).
 - **[Simple Studies](https://www.simplestudies.org/studyguides/ib-global-politics)** - Offers a free downloadable IB Global Politics study guide (free).
 - **[TutorChase](https://www.tutorchase.com/notes/ib/global-politics)** - Free IB Global Politics HL notes across core and extension topics (freemium).
-- **[World101](https://world101.cfr.org)** - Free CFR modules explaining international relations and foreign policy (free).
 
 </details>
 
@@ -725,7 +725,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 - **[Knowt](https://knowt.com)** - Free student-written study guides and flashcards for IB ESS (freemium).
 - **[MinuteEarth](https://www.youtube.com/@MinuteEarth)** - Short, animated explainers on environmental science mysteries (free).
 - **[Mr Kremer's Science](https://mrkremerscience.com/new-ess/)** - Free IB ESS topic explanations, flashcards, and video lessons by a teacher (free).
-- **[NOAA Climate.gov](https://www.climate.gov/)** - Explains climate science with maps, data, and articles (free).
+- **[NOAA Climate](https://www.noaa.gov/climate)** - Explains climate science with data, tools, and news from NOAA (free).
 - **[Our World in Data](https://ourworldindata.org)** - Free data and research on environmental, climate, and global issues (free).
 - **[Revision Village](https://www.revisionvillage.com/ib-ess/sl-2026/)** - Questionbank, past papers, and flashcards for IB ESS (freemium).
 - **[Save My Exams](https://www.savemyexams.com/dp/environmental-systems-and-societies-ess/)** - Revision notes, exam questions, and past papers for IB ESS (freemium).
@@ -1150,7 +1150,7 @@ Go from first line to shipped project.
 - **[freeCodeCamp](https://www.freecodecamp.org)** - Free, open-source coding curriculum with certifications (free).
 - **[Full Stack Open](https://fullstackopen.com)** - Learn modern web development with a free University of Helsinki course.
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students (free).
-- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)** - Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development)** - Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).
 - **[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)** - Learn shell, Git, and debugging through MIT lecture notes and videos (free).
 - **[The Odin Project](https://www.theodinproject.com)** - Free project-based path into web development (free).
 - **[Visual Studio Code](https://code.visualstudio.com)** - Free, extensible code editor from Microsoft (free).

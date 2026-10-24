@@ -672,9 +672,9 @@
     "subsection": "Further Mathematics"
   },
   {
-    "name": "Further Mathematics Support Programme",
-    "url": "https://furthermaths.org.uk",
-    "description": "Resources and videos supporting A-Level Further Maths students (free).",
+    "name": "Advanced Mathematics Support Programme",
+    "url": "https://amsp.org.uk/",
+    "description": "Online Further Maths support and resources for English state-school students (free).",
     "section": "By Subject",
     "subsection": "Further Mathematics"
   },
@@ -2836,7 +2836,7 @@
   },
   {
     "name": "MDN Web Docs",
-    "url": "https://developer.mozilla.org/en-US/docs/Learn",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
     "description": "Free, definitive reference and tutorials for HTML, CSS, and JavaScript (free).",
     "section": "Building Software / Learn to Code",
     "subsection": "Learn to Code"
@@ -3150,8 +3150,8 @@
     "subsection": "Global Perspectives"
   },
   {
-    "name": "World101",
-    "url": "https://world101.cfr.org",
+    "name": "CFR Education",
+    "url": "https://www.cfr.org/education",
     "description": "Free CFR modules explaining international relations and foreign policy (free).",
     "section": "By Subject",
     "subsection": "Global Politics"
@@ -3640,8 +3640,8 @@
     "subsection": "Global Politics"
   },
   {
-    "name": "World101",
-    "url": "https://world101.cfr.org",
+    "name": "CFR Education",
+    "url": "https://www.cfr.org/education",
     "description": "Free CFR modules explaining international relations and global issues (free).",
     "section": "By Subject",
     "subsection": "Global Perspectives"
@@ -4179,9 +4179,9 @@
     "subsection": "Health and Social Care"
   },
   {
-    "name": "NOAA Climate.gov",
-    "url": "https://www.climate.gov/",
-    "description": "Explains climate science with maps, data, and articles (free).",
+    "name": "NOAA Climate",
+    "url": "https://www.noaa.gov/climate",
+    "description": "Explains climate science with data, tools, and news from NOAA (free).",
     "section": "By Subject",
     "subsection": "Environmental Systems & Societies"
   },
