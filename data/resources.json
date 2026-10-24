@@ -973,13 +973,6 @@
     "subsection": "Design Technology"
   },
   {
-    "name": "StudyIB",
-    "url": "https://studyib.net/designtechnology",
-    "description": "Concise revision notes and explanations across the Design Technology syllabus (freemium).",
-    "section": "By Subject",
-    "subsection": "Design Technology"
-  },
-  {
     "name": "Clastify",
     "url": "https://www.clastify.com/notes/itgs",
     "description": "Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).",
@@ -1011,13 +1004,6 @@
     "name": "RevisionDojo",
     "url": "https://www.revisiondojo.com/ib/ib-itgs",
     "description": "Notes, flashcards, and a question bank for IB ITGS (freemium).",
-    "section": "By Subject",
-    "subsection": "ITGS"
-  },
-  {
-    "name": "StudyIB",
-    "url": "https://studyib.net/itgs",
-    "description": "Concise revision notes and explanations across the ITGS syllabus (freemium).",
     "section": "By Subject",
     "subsection": "ITGS"
   },
@@ -1816,13 +1802,6 @@
     "name": "RevisionDojo",
     "url": "https://www.revisiondojo.com/ib/ib-sports-exercise-and-health-science-sehs-new-syllabus",
     "description": "Notes, flashcards, and a question bank for IB Sports, Exercise and Health Science (freemium).",
-    "section": "By Subject",
-    "subsection": "Sports, Exercise & Health Science"
-  },
-  {
-    "name": "StudyIB",
-    "url": "https://studyib.net/sehs",
-    "description": "Concise revision notes and explanations across the SEHS syllabus (freemium).",
     "section": "By Subject",
     "subsection": "Sports, Exercise & Health Science"
   },

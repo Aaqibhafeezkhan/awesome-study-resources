@@ -107,6 +107,9 @@ v1.0.0 tag itself.
   and now serves a Namecheap parking page (#183).
 - EconplusDal from By Subject / Economics: its YouTube handle (@EconplusDal) now
   returns 404 (#449).
+- StudyIB subject pages for Design Technology (`/designtechnology`), ITGS
+  (`/itgs`) and Sports, Exercise & Health Science (`/sehs`): each now answers
+  `303` and redirects to the StudyIB homepage (#464).
 
 ## [1.0.0] - 2026-08-11
 
