@@ -52,20 +52,28 @@ function groupRecords(records) {
   return bySection;
 }
 
-function renderDetails(records) {
+// `label` names the block for screen readers and scanning, e.g. "Mathematics
+// (12 resources)": the subsection name, or the section name when it has none.
+function renderDetails(records, label) {
   const sorted = [...records].sort((a, b) => compareNames(a.name, b.name));
   const lines = sorted.map((r) => `- **[${r.name}](${r.url})** - ${r.description}`);
-  return `<details open>\n<summary>Show resources</summary>\n\n${lines.join('\n')}\n\n</details>`;
+  return `<details open>\n<summary>${label} (${records.length} ${records.length === 1 ? 'resource' : 'resources'})</summary>\n\n${lines.join('\n')}\n\n</details>`;
 }
 
 function renderSection(sectionMeta, group) {
   let out = `## ${sectionMeta.heading}\n\n${sectionMeta.blurb}\n\n`;
 
   if (group.subsectionOrder.length === 1 && group.subsectionOrder[0] === null) {
-    out += renderDetails(group.bySubsection.get(null));
+    out += renderDetails(group.bySubsection.get(null), sectionMeta.heading);
   } else {
+    // One line of links to the subsections, so a reader can jump to a subject
+    // without scrolling (GitHub's outline menu is otherwise the only way).
+    const subs = group.subsectionOrder.filter((sub) => sub !== null);
+    if (subs.length > 1) {
+      out += `**Jump to:** ${subs.map((sub) => `[${sub}](#${slugify(sub)})`).join(' &middot; ')}\n\n`;
+    }
     const parts = group.subsectionOrder.map(
-      (sub) => `### ${sub}\n\n${renderDetails(group.bySubsection.get(sub))}`
+      (sub) => `### ${sub}\n\n${renderDetails(group.bySubsection.get(sub), sub)}`
     );
     out += parts.join('\n\n');
   }

@@ -12,7 +12,7 @@ const TEMPLATE = {
 
 ## Table of Contents
 
-| | Section | Resources |
+| Icon | Section | Resources |
 | :-: | --- | :-: |
 `,
   sections: [
@@ -119,4 +119,19 @@ test('regenerating from parsed real README data round-trips (spot check via defa
   assert.ok(out.startsWith('<div align="center">'));
   assert.ok(out.includes('- **[Anki](https://apps.ankiweb.net)** - Free, open-source spaced-repetition flashcards (free).'));
   assert.ok(out.includes('## Great Textbooks')); // sections with 0 records still render
+});
+
+test('each details block is labelled with its subsection or section name and count', () => {
+  const out = buildReadme(RECORDS, TEMPLATE);
+  assert.ok(!out.includes('<summary>Show resources</summary>'));
+  assert.ok(out.includes('<summary>Alpha (2 resources)</summary>'));
+  assert.ok(out.includes('<summary>Sub A (2 resources)</summary>'));
+  assert.ok(out.includes('<summary>Sub B (1 resource)</summary>'));
+});
+
+test('a section with several subsections gets a jump line linking to each', () => {
+  const out = buildReadme(RECORDS, TEMPLATE);
+  assert.ok(out.includes('**Jump to:** [Sub B](#sub-b) &middot; [Sub A](#sub-a)'));
+  const alphaSection = out.slice(out.indexOf('## Alpha'), out.indexOf('## Beta'));
+  assert.ok(!alphaSection.includes('Jump to'));
 });

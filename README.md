@@ -31,7 +31,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 ## Table of Contents
 
-| | Section | Resources |
+| Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 405 |
@@ -53,10 +53,12 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 Official and community prep for the big exams and curricula.
 
+**Jump to:** [A-Level](#a-level) &middot; [ACT](#act) &middot; [AP](#ap) &middot; [AP Computer Science](#ap-computer-science) &middot; [CAS](#cas) &middot; [Extended Essay](#extended-essay) &middot; [GCSE](#gcse) &middot; [IB (IBDP)](#ib-ibdp) &middot; [IGCSE](#igcse) &middot; [PSAT](#psat) &middot; [SAT](#sat) &middot; [Theory of Knowledge](#theory-of-knowledge)
+
 ### A-Level
 
 <details open>
-<summary>Show resources</summary>
+<summary>A-Level (11 resources)</summary>
 
 - **[A Level Physics Online](https://www.alevelphysicsonline.com/)** - Free A-Level Physics revision notes with worked explanations and past paper guidance (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core A-Level subject (free).
@@ -75,7 +77,7 @@ Official and community prep for the big exams and curricula.
 ### ACT
 
 <details open>
-<summary>Show resources</summary>
+<summary>ACT (10 resources)</summary>
 
 - **[ACT Score Calculator](https://actscorecalculators.com/)** - Convert ACT practice-test answers into scores and percentiles (free).
 - **[ACT.org](https://www.act.org)** - The official test maker's free study guide and full-length practice test (free).
@@ -93,7 +95,7 @@ Official and community prep for the big exams and curricula.
 ### AP
 
 <details open>
-<summary>Show resources</summary>
+<summary>AP (10 resources)</summary>
 
 - **[Albert.io](https://www.albert.io)** - Standards-aligned practice questions across every AP subject (freemium).
 - **[AP Central](https://apcentral.collegeboard.org)** - Browse official AP course descriptions, exam formats, and past free-response questions (free).
@@ -111,7 +113,7 @@ Official and community prep for the big exams and curricula.
 ### AP Computer Science
 
 <details open>
-<summary>Show resources</summary>
+<summary>AP Computer Science (10 resources)</summary>
 
 - **[AP Central: Computer Science A](https://apcentral.collegeboard.org/courses/ap-computer-science-a)** - The official College Board course, exam, and exam description for AP CSA (free).
 - **[AP Central: Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles)** - Review the official AP CSP course framework and exam details (free).
@@ -129,7 +131,7 @@ Official and community prep for the big exams and curricula.
 ### CAS
 
 <details open>
-<summary>Show resources</summary>
+<summary>CAS (11 resources)</summary>
 
 - **[CollegeVine](https://blog.collegevine.com/guide-to-ib-cas)** - Free guide to CAS strands, hours, and the reflection process (free).
 - **[DoSomething](https://www.dosomething.org/)** - Find youth service actions to log as CAS service hours (free).
@@ -148,7 +150,7 @@ Official and community prep for the big exams and curricula.
 ### Extended Essay
 
 <details open>
-<summary>Show resources</summary>
+<summary>Extended Essay (10 resources)</summary>
 
 - **[Clastify](https://www.clastify.com/blog/ib-extended-essay-guide)** - Searchable bank of grade-A Extended Essay exemplars across subjects (freemium).
 - **[CollegeVine](https://blog.collegevine.com/ib-extended-essay-topic)** - Free guide to choosing and narrowing an IB Extended Essay topic (free).
@@ -166,7 +168,7 @@ Official and community prep for the big exams and curricula.
 ### GCSE
 
 <details open>
-<summary>Show resources</summary>
+<summary>GCSE (10 resources)</summary>
 
 - **[AQA](https://www.aqa.org.uk)** - Find official GCSE specifications, past papers, and mark schemes (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned revision across every core GCSE subject (free).
@@ -184,7 +186,7 @@ Official and community prep for the big exams and curricula.
 ### IB (IBDP)
 
 <details open>
-<summary>Show resources</summary>
+<summary>IB (IBDP) (11 resources)</summary>
 
 - **[IB Doctor Command Terms](https://ibdoctor.co.uk/resources/command-terms)** - Explains what each IB command term asks for (free).
 - **[IB Documents](https://www.ibdocuments.com/)** - Free archive of IB past papers and resources (free).
@@ -203,7 +205,7 @@ Official and community prep for the big exams and curricula.
 ### IGCSE
 
 <details open>
-<summary>Show resources</summary>
+<summary>IGCSE (10 resources)</summary>
 
 - **[Cambridge IGCSE](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/)** - Find official IGCSE syllabuses, past papers, and examiner reports (free).
 - **[CIE Notes](https://www.cienotes.com)** - Free Cambridge IGCSE and A-Level notes and past papers (free).
@@ -221,7 +223,7 @@ Official and community prep for the big exams and curricula.
 ### PSAT
 
 <details open>
-<summary>Show resources</summary>
+<summary>PSAT (11 resources)</summary>
 
 - **[College Board Bluebook](https://bluebook.collegeboard.org)** - The official app that delivers full-length adaptive practice tests (free).
 - **[College Board PSAT/NMSQT](https://satsuite.collegeboard.org/psat-nmsqt)** - The official overview, dates, and score info for the PSAT/NMSQT (free).
@@ -240,7 +242,7 @@ Official and community prep for the big exams and curricula.
 ### SAT
 
 <details open>
-<summary>Show resources</summary>
+<summary>SAT (10 resources)</summary>
 
 - **[1600.io](https://1600.io)** - Deep video courses and problem sets for serious SAT scores (paid).
 - **[1600.now](https://1600.now/)** - Practice SAT questions and timed tests with answer explanations (free).
@@ -258,7 +260,7 @@ Official and community prep for the big exams and curricula.
 ### Theory of Knowledge
 
 <details open>
-<summary>Show resources</summary>
+<summary>Theory of Knowledge (10 resources)</summary>
 
 - **[Clastify](https://www.clastify.com/tok)** - Searchable bank of grade-A TOK essay and exhibition exemplars (freemium).
 - **[IB Theory of Knowledge](https://ibo.org/programmes/diploma-programme/curriculum/dp-core/theory-of-knowledge/)** - The IB's official overview of the TOK course, essay, and exhibition (free).
@@ -279,10 +281,12 @@ Official and community prep for the big exams and curricula.
 
 Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 
+**Jump to:** [Mathematics](#mathematics) &middot; [Statistics](#statistics) &middot; [Further Mathematics](#further-mathematics) &middot; [Physics](#physics) &middot; [Chemistry](#chemistry) &middot; [Biology](#biology) &middot; [Computer Science](#computer-science) &middot; [Design Technology](#design-technology) &middot; [ITGS](#itgs) &middot; [Economics](#economics) &middot; [Accounting](#accounting) &middot; [Business Studies](#business-studies) &middot; [English Language and Literature](#english-language-and-literature) &middot; [Foreign Languages](#foreign-languages) &middot; [Latin](#latin) &middot; [Philosophy](#philosophy) &middot; [World Religions](#world-religions) &middot; [History](#history) &middot; [Global Perspectives](#global-perspectives) &middot; [Global Politics](#global-politics) &middot; [Classical Civilisation](#classical-civilisation) &middot; [Geography](#geography) &middot; [Law](#law) &middot; [Environmental Systems & Societies](#environmental-systems--societies) &middot; [Sports, Exercise & Health Science](#sports-exercise--health-science) &middot; [Food & Nutrition](#food--nutrition) &middot; [Health and Social Care](#health-and-social-care) &middot; [Social and Cultural Anthropology](#social-and-cultural-anthropology) &middot; [Psychology](#psychology) &middot; [Sociology](#sociology) &middot; [Physical Education](#physical-education) &middot; [Art](#art) &middot; [Film](#film) &middot; [Photography](#photography) &middot; [Media Studies](#media-studies) &middot; [Music](#music) &middot; [Theatre](#theatre) &middot; [Dance](#dance)
+
 ### Mathematics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Mathematics (12 resources)</summary>
 
 - **[3Blue1Brown](https://www.3blue1brown.com)** - Visual, intuition-first explanations of hard math ideas (free).
 - **[Art of Problem Solving](https://artofproblemsolving.com/)** - Free adaptive practice, wiki, and forums for competition and advanced math (freemium).
@@ -302,7 +306,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Statistics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Statistics (11 resources)</summary>
 
 - **[Crash Course Statistics](https://thecrashcourse.com/courses/statistics/)** - A 44-episode video series covering statistics from basics to modeling (free).
 - **[Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)** - Free lessons and practice across statistics and probability (free).
@@ -321,7 +325,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Further Mathematics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Further Mathematics (11 resources)</summary>
 
 - **[Advanced Mathematics Support Programme](https://amsp.org.uk/)** - Online Further Maths support and resources for English state-school students (free).
 - **[Dr Frost Maths](https://www.drfrost.org)** - Provides further maths questions, videos, and auto-marked worksheets (freemium).
@@ -340,7 +344,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Physics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Physics (11 resources)</summary>
 
 - **[Flipping Physics](https://www.flippingphysics.com)** - Free video lessons aligned to AP and intro physics (free).
 - **[HyperPhysics](https://hyperphysics.gsu.edu/hbase/index.html)** - Free concept map linking every core physics topic (free).
@@ -359,7 +363,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Chemistry
 
 <details open>
-<summary>Show resources</summary>
+<summary>Chemistry (12 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmf3cdm)** - Covers GCSE chemistry topics with revision guides and quizzes (free).
 - **[Chemguide](https://www.chemguide.co.uk)** - Focused explanations for UK A-Level and IGCSE chemistry (free).
@@ -379,7 +383,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Biology
 
 <details open>
-<summary>Show resources</summary>
+<summary>Biology (11 resources)</summary>
 
 - **[Amoeba Sisters](https://www.amoebasisters.com)** - Friendly animations and handouts for core biology topics (free).
 - **[Biology LibreTexts](https://bio.libretexts.org)** - Free, open biology textbooks and references (free).
@@ -398,7 +402,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Computer Science
 
 <details open>
-<summary>Show resources</summary>
+<summary>Computer Science (11 resources)</summary>
 
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures (free).
 - **[Codedex](https://www.codedex.io)** - Gamified, beginner-friendly coding lessons (freemium).
@@ -417,7 +421,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Design Technology
 
 <details open>
-<summary>Show resources</summary>
+<summary>Design Technology (10 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zykw2hv)** - Free curriculum-aligned revision guides for GCSE Design and Technology (free).
 - **[Clastify](https://www.clastify.com/notes/design-technology)** - Searchable IB Design Technology notes filtered by grade and level (freemium).
@@ -435,7 +439,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### ITGS
 
 <details open>
-<summary>Show resources</summary>
+<summary>ITGS (7 resources)</summary>
 
 - **[Clastify](https://www.clastify.com/notes/itgs)** - Searchable IB ITGS notes filtered by grade, level, and exam session (freemium).
 - **[DataReportal](https://datareportal.com/)** - Free country reports on internet, social media, and technology use (free).
@@ -450,7 +454,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Economics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Economics (10 resources)</summary>
 
 - **[CORE Econ](https://www.core-econ.org)** - Free, modern economics textbook used worldwide (free).
 - **[EconEdLink](https://econedlink.org/)** - Free lessons, videos, and interactive tools on economics and personal finance (free).
@@ -468,7 +472,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Accounting
 
 <details open>
-<summary>Show resources</summary>
+<summary>Accounting (11 resources)</summary>
 
 - **[Accounting Stuff](https://www.youtube.com/@AccountingStuff)** - Watch step-by-step accounting lessons from a qualified accountant (free).
 - **[AccountingCoach](https://www.accountingcoach.com)** - Free explanations, quizzes, and flashcards across core accounting topics (freemium).
@@ -487,7 +491,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Business Studies
 
 <details open>
-<summary>Show resources</summary>
+<summary>Business Studies (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zjnygk7)** - Covers GCSE business studies topics with revision guides and quizzes (free).
 - **[BizEdMadeSimple](https://bizedmadesimple.com/)** - Revise IGCSE and A Level business with video lessons (freemium).
@@ -506,7 +510,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### English Language and Literature
 
 <details open>
-<summary>Show resources</summary>
+<summary>English Language and Literature (11 resources)</summary>
 
 - **[CliffsNotes](https://www.cliffsnotes.com/literature)** - Free literature notes, summaries, and study guides for classic and contemporary texts (freemium).
 - **[Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/)** - Read and search the complete works of Shakespeare (free).
@@ -525,7 +529,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Foreign Languages
 
 <details open>
-<summary>Show resources</summary>
+<summary>Foreign Languages (11 resources)</summary>
 
 - **[Busuu](https://www.busuu.com/en)** - Structured lessons with feedback from native speakers across 20+ languages (freemium).
 - **[Clozemaster](https://www.clozemaster.com)** - Builds vocabulary through fill-in-the-blank sentences across 50+ languages (freemium).
@@ -544,7 +548,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Latin
 
 <details open>
-<summary>Show resources</summary>
+<summary>Latin (11 resources)</summary>
 
 - **[Cambridge Latin Course](https://www.cambridgescp.com)** - Free companion resources for the widely used Cambridge Latin Course (free).
 - **[Dickinson College Commentaries](https://dcc.dickinson.edu)** - Free annotated Latin and Greek reading texts with vocabulary and notes (free).
@@ -563,7 +567,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Philosophy
 
 <details open>
-<summary>Show resources</summary>
+<summary>Philosophy (11 resources)</summary>
 
 - **[1000-Word Philosophy](https://1000wordphilosophy.com)** - Free, short introductory essays on philosophical concepts and thinkers (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory philosophy video series (free).
@@ -582,7 +586,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### World Religions
 
 <details open>
-<summary>Show resources</summary>
+<summary>World Religions (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zmyb4wx)** - Free curriculum-aligned GCSE Religious Studies revision guides and quizzes (free).
 - **[Crash Course Religions](https://thecrashcourse.com/courses/religions/)** - A 24-episode video series exploring world religions and belief systems (free).
@@ -601,7 +605,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### History
 
 <details open>
-<summary>Show resources</summary>
+<summary>History (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned history revision (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Fast overviews of world and US history (free).
@@ -620,7 +624,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Global Perspectives
 
 <details open>
-<summary>Show resources</summary>
+<summary>Global Perspectives (11 resources)</summary>
 
 - **[Cambridge IGCSE Global Perspectives](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/)** - Provides the official syllabus and past papers for Global Perspectives (free).
 - **[CFR Education](https://www.cfr.org/education)** - Free CFR modules explaining international relations and global issues (free).
@@ -639,7 +643,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Global Politics
 
 <details open>
-<summary>Show resources</summary>
+<summary>Global Politics (12 resources)</summary>
 
 - **[12 Axes](https://12axes.site/)** - Place your political views on twelve separate axes (free).
 - **[CFR Education](https://www.cfr.org/education)** - Free CFR modules explaining international relations and foreign policy (free).
@@ -659,7 +663,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Classical Civilisation
 
 <details open>
-<summary>Show resources</summary>
+<summary>Classical Civilisation (11 resources)</summary>
 
 - **[Advocating Classics Education](https://aceclassics.org.uk)** - University-backed project sharing GCSE and A-Level Classical Civilisation teaching resources (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/classical_civilization)** - Free class notes, flashcards, and quizzes for GCSE Classical Civilisation (free).
@@ -678,7 +682,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Geography
 
 <details open>
-<summary>Show resources</summary>
+<summary>Geography (12 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned geography revision (free).
 - **[Cool Geography](https://www.coolgeography.co.uk)** - Free geography lessons and case studies from Year 7 through A-Level (freemium).
@@ -698,7 +702,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Law
 
 <details open>
-<summary>Show resources</summary>
+<summary>Law (11 resources)</summary>
 
 - **[A-LevelLaw.com](https://a-levellaw.com)** - Free student-run notes, case summaries, and past papers for A-Level Law (free).
 - **[BAILII](https://www.bailii.org)** - Free searchable database of British and Irish case law and legislation (free).
@@ -717,7 +721,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Environmental Systems & Societies
 
 <details open>
-<summary>Show resources</summary>
+<summary>Environmental Systems & Societies (11 resources)</summary>
 
 - **[Aimnova](https://www.aimnova.app/ib-ess/notes)** - Free IB ESS notes, flashcards, and practice questions with no sign-up (free).
 - **[Bozeman Science](https://www.bozemanscience.com)** - Concept videos across environmental systems and ecology (free).
@@ -736,7 +740,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Sports, Exercise & Health Science
 
 <details open>
-<summary>Show resources</summary>
+<summary>Sports, Exercise & Health Science (10 resources)</summary>
 
 - **[ACE Fitness](https://www.acefitness.org/)** - Free exercise science articles, an exercise library, and fitness calculators (freemium).
 - **[BrianMac Sports Coach](https://www.brianmac.co.uk)** - Free reference on exercise physiology, training methods, and sports coaching (free).
@@ -754,7 +758,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Food & Nutrition
 
 <details open>
-<summary>Show resources</summary>
+<summary>Food & Nutrition (11 resources)</summary>
 
 - **[Academy of Nutrition and Dietetics](https://www.eatright.org/)** - Nutrition guidance and healthy-eating articles from registered dietitians (free).
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdn9jhv)** - Covers GCSE food preparation and nutrition topics with revision guides and quizzes (free).
@@ -773,7 +777,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Health and Social Care
 
 <details open>
-<summary>Show resources</summary>
+<summary>Health and Social Care (11 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize)** - Free curriculum-aligned Health and Social Care revision (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/health_and_social_care)** - Free class notes, flashcards, and quizzes for GCSE Health and Social Care (free).
@@ -792,7 +796,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Social and Cultural Anthropology
 
 <details open>
-<summary>Show resources</summary>
+<summary>Social and Cultural Anthropology (11 resources)</summary>
 
 - **[American Anthropological Association](https://americananthro.org/learn-teach/)** - Explore what anthropology is, with teaching and learning resources (free).
 - **[Anthropology News](https://www.anthropology-news.org)** - Free AAA magazine covering current anthropological research and teaching (free).
@@ -811,7 +815,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Psychology
 
 <details open>
-<summary>Show resources</summary>
+<summary>Psychology (10 resources)</summary>
 
 - **[APA Psychology Topics](https://www.apa.org/topics)** - Summarizes research on psychology topics from the APA (free).
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory psychology video series (free).
@@ -829,7 +833,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Sociology
 
 <details open>
-<summary>Show resources</summary>
+<summary>Sociology (10 resources)</summary>
 
 - **[CrashCourse](https://www.youtube.com/@crashcourse)** - Accessible introductory sociology video series (free).
 - **[Discover Sociology](https://www.discoversociology.co.uk/)** - Free A-Level sociology teaching resources from the British Sociological Association (free).
@@ -847,7 +851,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Physical Education
 
 <details open>
-<summary>Show resources</summary>
+<summary>Physical Education (10 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zdhs34j)** - Free curriculum-aligned GCSE Physical Education revision guides and quizzes (free).
 - **[Get Revising](https://getrevising.co.uk/resources/level/gcse/subjects/physical_education)** - Free class notes, flashcards, and quizzes for GCSE Physical Education (free).
@@ -865,7 +869,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Art
 
 <details open>
-<summary>Show resources</summary>
+<summary>Art (10 resources)</summary>
 
 - **[Art UK](https://artuk.org/)** - Free digital access to every public art collection in the UK (free).
 - **[Drawabox](https://drawabox.com)** - Free, exercise-based course for learning drawing fundamentals step by step (free).
@@ -883,7 +887,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Film
 
 <details open>
-<summary>Show resources</summary>
+<summary>Film (10 resources)</summary>
 
 - **[BFI Film Academy](https://www.bfi.org.uk/bfi-film-academy)** - Free UK-wide filmmaking training programme for 16 to 25-year-olds (free).
 - **[Cinephilia & Beyond](https://cinephiliabeyond.org/)** - Reads in-depth essays on filmmaking and film history (free).
@@ -901,7 +905,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Photography
 
 <details open>
-<summary>Show resources</summary>
+<summary>Photography (10 resources)</summary>
 
 - **[Cambridge in Colour](https://www.cambridgeincolour.com/)** - Free tutorials on camera exposure, composition, and editing fundamentals (free).
 - **[Digital Photography School](https://digital-photography-school.com)** - Free photography tutorials covering camera basics, composition, and lighting (free).
@@ -919,7 +923,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Media Studies
 
 <details open>
-<summary>Show resources</summary>
+<summary>Media Studies (10 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zwpfb9q)** - Free curriculum-aligned GCSE Media Studies revision guides and quizzes (free).
 - **[BFI Education](https://www.bfi.org.uk/resources-events-teachers/resources-teachers)** - Film and media studies teaching resources from the British Film Institute (freemium).
@@ -937,7 +941,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Music
 
 <details open>
-<summary>Show resources</summary>
+<summary>Music (10 resources)</summary>
 
 - **[8notes](https://www.8notes.com)** - Free sheet music across 25+ instruments (freemium).
 - **[Ableton Learning Music](https://learningmusic.ableton.com/)** - Learn beats, scales, and chords through interactive in-browser lessons (free).
@@ -955,7 +959,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Theatre
 
 <details open>
-<summary>Show resources</summary>
+<summary>Theatre (10 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zk6pyrd)** - Covers GCSE drama theory, acting skills, and stagecraft revision (free).
 - **[Digital Theatre+](https://www.digitaltheatreplus.com)** - Filmed productions and study resources for GCSE and A-Level Drama (freemium).
@@ -973,7 +977,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 ### Dance
 
 <details open>
-<summary>Show resources</summary>
+<summary>Dance (10 resources)</summary>
 
 - **[BBC Bitesize](https://www.bbc.co.uk/bitesize/subjects/zg9jtfr)** - Covers GCSE dance revision notes, videos, and practice questions (free).
 - **[Dance Magazine](https://www.dancemagazine.com/)** - Read dance news, features, and career advice (freemium).
@@ -995,7 +999,7 @@ Flagship picks per subject: mix a strong site, a channel, and a practice tool.
 Capture, link, and organize what you learn.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Notes & Knowledge Management (11 resources)</summary>
 
 - **[Joplin](https://joplinapp.org/)** - Free, open-source markdown notes with sync and encryption (free, open source).
 - **[Logseq](https://logseq.com)** - Free, open-source outliner for networked notes (free).
@@ -1018,7 +1022,7 @@ Capture, link, and organize what you learn.
 Remember more with less rereading.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Flashcards & Spaced Repetition (17 resources)</summary>
 
 - **[Anki](https://apps.ankiweb.net)** - Free, open-source spaced-repetition flashcards with huge shared decks (free).
 - **[Brainscape](https://www.brainscape.com)** - Confidence-based repetition flashcards (freemium).
@@ -1047,7 +1051,7 @@ Remember more with less rereading.
 Plan the week, protect the deadlines.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Task, Time & Planning (11 resources)</summary>
 
 - **[CalcAttendance](https://calcattendance.com/)** - See how many classes you can safely miss (free).
 - **[Dopastep](https://dopastep.com/)** - Splits a task into small steps, then drops you into a live body-doubling focus room with synced focus and break cycles (freemium).
@@ -1070,7 +1074,7 @@ Plan the week, protect the deadlines.
 Draft, cite, and polish papers.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Writing, Citations & Reference (12 resources)</summary>
 
 - **[EasyBib](https://www.easybib.com)** - Citation and bibliography generator, free for MLA (freemium).
 - **[Grammarly](https://www.grammarly.com)** - Grammar and clarity suggestions as you write (freemium).
@@ -1094,7 +1098,7 @@ Draft, cite, and polish papers.
 Know what's allowed, and how to cite AI-assisted work, before you submit. AI-text detectors give unreliable results and should not be treated as proof of misconduct: OpenAI [withdrew its own AI classifier](https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/) for low accuracy, and a [2023 study](https://arxiv.org/abs/2304.02819) found detectors consistently misclassify non-native English writing as AI-generated.
 
 <details open>
-<summary>Show resources</summary>
+<summary>AI & Academic Integrity (10 resources)</summary>
 
 - **[APA Style: Citing ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)** - Official APA guidance on citing AI-generated content (free).
 - **[Chicago Manual of Style: Citing ChatGPT](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html)** - Official Chicago Style Q&A on crediting generative AI output (free).
@@ -1116,7 +1120,7 @@ Know what's allowed, and how to cite AI-assisted work, before you submit. AI-tex
 Graph, compute, and sketch ideas.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Diagramming & STEM Tools (12 resources)</summary>
 
 - **[Covalent](https://chempirical.com/covalent/)** - Draw chemical structures that are checked as you draw (free).
 - **[Desmos](https://www.desmos.com)** - Free graphing calculator and classroom activities (free).
@@ -1139,10 +1143,12 @@ Graph, compute, and sketch ideas.
 
 Go from first line to shipped project.
 
+**Jump to:** [Learn to Code](#learn-to-code) &middot; [Coding Practice](#coding-practice)
+
 ### Learn to Code
 
 <details open>
-<summary>Show resources</summary>
+<summary>Learn to Code (10 resources)</summary>
 
 - **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** - Free online Python book with hands-on file, spreadsheet, and web automation projects (free).
 - **[Codecademy](https://www.codecademy.com)** - Interactive coding lessons across many languages and career paths (freemium).
@@ -1160,7 +1166,7 @@ Go from first line to shipped project.
 ### Coding Practice
 
 <details open>
-<summary>Show resources</summary>
+<summary>Coding Practice (10 resources)</summary>
 
 - **[Advent of Code](https://adventofcode.com)** - Free annual puzzle set, one bite-sized challenge per day each December (free).
 - **[AtCoder](https://atcoder.jp/)** - Japanese competitive programming platform with regular timed contests (free).
@@ -1182,7 +1188,7 @@ Go from first line to shipped project.
 Channels that teach, not just entertain.
 
 <details open>
-<summary>Show resources</summary>
+<summary>YouTube Channels We Trust (17 resources)</summary>
 
 - **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** - Visual math intuition, from linear algebra to calculus (free).
 - **[Abdul Bari](https://www.youtube.com/@abdul_bari)** - Clear lectures on algorithms and data structures (free).
@@ -1211,7 +1217,7 @@ Channels that teach, not just entertain.
 Subject textbooks students and teachers keep coming back to.
 
 <details open>
-<summary>Show resources</summary>
+<summary>Great Textbooks (10 resources)</summary>
 
 - **[Campbell, Biology](https://www.pearson.com/en-us/subject-catalog/p/campbells-biology/P200000014184/9780135455890)** - The standard university-level biology textbook (paid).
 - **[Clayden, Organic Chemistry](https://global.oup.com/academic/product/organic-chemistry-9780198728719)** - Widely used undergraduate organic chemistry text (paid).

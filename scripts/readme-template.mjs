@@ -49,7 +49,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 
 ## Table of Contents
 
-| | Section | Resources |
+| Icon | Section | Resources |
 | :-: | --- | :-: |
 `;
 
