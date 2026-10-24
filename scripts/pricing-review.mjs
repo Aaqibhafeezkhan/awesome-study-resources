@@ -7,13 +7,21 @@
 // Usage:
 //   node scripts/pricing-review.mjs            print this month's batch
 //   node scripts/pricing-review.mjs --batch N  print a specific batch (testing)
+//   node scripts/pricing-review.mjs --batch-size N  override the derived batch size
 //
 // The parsing and selection live in pure exports so they can be unit-tested.
 
 import { readFileSync, realpathSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
-export const BATCH_SIZE = 15;
+// Target length of one full pass over the list, in months (one batch a month).
+export const CYCLE_MONTHS = 12;
+
+// Pure: batch size that covers `total` entries within CYCLE_MONTHS batches, so
+// the cycle stays at a year however large the list grows.
+export function defaultBatchSize(total, cycleMonths = CYCLE_MONTHS) {
+  return Math.max(1, Math.ceil(total / cycleMonths));
+}
 
 // Pure: parse every resource entry into { name, url, tag, section, line }.
 // `tag` is the trailing (free|freemium|paid) if present, else null.
@@ -43,7 +51,7 @@ export function parseEntries(readmeText) {
 // Pure, deterministic: given a batch index, return `size` entries starting at a
 // rotating offset (wrapping around). Consecutive indexes tile the whole list, so
 // over ceil(total / size) batches every entry is covered, then it repeats.
-export function selectBatch(entries, batchIndex, batchSize = BATCH_SIZE) {
+export function selectBatch(entries, batchIndex, batchSize = defaultBatchSize(entries.length)) {
   const n = entries.length;
   if (n === 0) return [];
   const size = Math.min(batchSize, n);
@@ -54,9 +62,10 @@ export function selectBatch(entries, batchIndex, batchSize = BATCH_SIZE) {
 }
 
 // Pure: render the batch as a Markdown checklist issue body.
-export function buildChecklist(entries, batchIndex, batchSize = BATCH_SIZE) {
+export function buildChecklist(entries, batchIndex, batchSize = defaultBatchSize(entries.length)) {
   const batch = selectBatch(entries, batchIndex, batchSize);
   const cycles = Math.ceil(entries.length / Math.min(batchSize, entries.length || 1));
+  const months = cycles === 1 ? '1 month' : `${cycles} months`;
 
   const lines = [];
   lines.push('Pricing tags can go stale without the link ever breaking, so this is a');
@@ -64,7 +73,7 @@ export function buildChecklist(entries, batchIndex, batchSize = BATCH_SIZE) {
   lines.push('');
   lines.push(
     `This batch is ${batch.length} of ${entries.length} entries (the sample rotates ` +
-      `each month and covers the whole list about every ${cycles} months).`
+      `each month and covers the whole list about every ${months}).`
   );
   lines.push('');
   lines.push('For each entry, open the link and confirm the pricing tag still matches:');
@@ -103,5 +112,8 @@ if (invokedDirectly()) {
   const now = new Date();
   const batchIndex = batchArg !== -1 ? Number(process.argv[batchArg + 1]) : now.getFullYear() * 12 + now.getMonth();
 
-  console.log(buildChecklist(entries, batchIndex));
+  const sizeArg = process.argv.indexOf('--batch-size');
+  const batchSize = sizeArg !== -1 ? Number(process.argv[sizeArg + 1]) : defaultBatchSize(entries.length);
+
+  console.log(buildChecklist(entries, batchIndex, batchSize));
 }

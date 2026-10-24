@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseEntries, selectBatch, buildChecklist } from './pricing-review.mjs';
+import { parseEntries, selectBatch, buildChecklist, defaultBatchSize, CYCLE_MONTHS } from './pricing-review.mjs';
 
 const README = `# Title
 
@@ -97,4 +97,28 @@ test('buildChecklist notes the untagged case for entries with no pricing tag', (
   const entries = parseEntries(README);
   const md = buildChecklist(entries, 1, 2); // Gamma + Delta; Delta is untagged
   assert.match(md, /\[Delta\].*_no explicit tag_/);
+});
+
+test('defaultBatchSize covers the list in CYCLE_MONTHS batches', () => {
+  assert.equal(CYCLE_MONTHS, 12);
+  assert.equal(defaultBatchSize(651), 55);
+  assert.equal(defaultBatchSize(12), 1);
+  assert.equal(defaultBatchSize(0), 1);
+});
+
+test('12 consecutive batches built with the derived size contain every entry', () => {
+  const entries = Array.from({ length: 651 }, (_, i) => ({ name: `E${i}`, url: `https://e${i}.example` }));
+  const size = defaultBatchSize(entries.length);
+  const seen = new Set();
+  for (let i = 0; i < CYCLE_MONTHS; i++) {
+    for (const e of selectBatch(entries, i, size)) seen.add(e.name);
+  }
+  assert.equal(seen.size, entries.length);
+});
+
+test('buildChecklist defaults to the derived size and states the cycle', () => {
+  const entries = Array.from({ length: 120 }, (_, i) => ({ name: `E${i}`, url: `https://e${i}.example`, tag: 'free', section: 'S' }));
+  const md = buildChecklist(entries, 0);
+  assert.equal((md.match(/^- \[ \]/gm) || []).length, 10);
+  assert.match(md, /about every 12 months/);
 });
